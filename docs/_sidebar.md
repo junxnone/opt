@@ -6,32 +6,35 @@
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)
 - [性能优化](/0003_OPT)
-  - [并行计算](/0023_OPT_PARA)
+  - PARA
     - [DPC++](/0026_OPT_PARA_DPCPP)
-      - [架构及相关概念](/0015_OPT_PARA_DPCPP_Arch)
-      - [DEBUG](/0016_OPT_PARA_DPCPP_DEBUG)
-    - [NDRange](/0018_OPT_PARA_NDRange)
     - [OpenCL](/0033_OPT_PARA_OpenCL)
       - [Install](/0034_OPT_PARA_OpenCL_Install)
     - OpenMP
       - [API](/0028_OPT_PARA_OpenMP_API)
-      - [Directives](/0020_OPT_PARA_OpenMP_Directives)
       - [Offload](/0024_OPT_PARA_OpenMP_Offload)
       - [SIMD](/0025_OPT_PARA_OpenMP_SIMD)
-      - [Task](/0019_OPT_PARA_OpenMP_Task)
       - [UseCase](/0022_OPT_PARA_OpenMP_UseCase)
-      - [变量](/0021_OPT_PARA_OpenMP_VAR)
-    - [Parallel Patterns](/0014_OPT_PARA_Patterns)
-    - [SIMD](/0013_OPT_PARA_SIMD)
+    - [OpenMPI](/0035_OPT_PARA_OpenMPI)
     - [SYCL](/0031_OPT_PARA_SYCL)
       - [Concepts](/0029_OPT_PARA_SYCL_Concepts)
-      - [Projects](/0017_OPT_PARA_SYCL_Projects)
       - [SPIR](/0030_OPT_PARA_SYCL_SPIR)
-- PARA
+- [并行计算](/0023_PARA)
+  - DPCPP
+    - [架构及相关概念](/0015_PARA_DPCPP_Arch)
+    - [DEBUG](/0016_PARA_DPCPP_DEBUG)
+  - [NDRange](/0018_PARA_NDRange)
+  - OpenMP
+    - [Directives](/0020_PARA_OpenMP_Directives)
+    - [Task](/0019_PARA_OpenMP_Task)
+    - [变量](/0021_PARA_OpenMP_VAR)
+  - [Parallel Patterns](/0014_PARA_Patterns)
+  - [SIMD](/0013_PARA_SIMD)
   - SYCL
     - [ESIMD](/0011_PARA_SYCL_ESIMD)
+    - [Projects](/0017_PARA_SYCL_Projects)
   - [并行计算理论](/0012_PARA_Theory)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1027000407</sub></kbd>
+<kbd><sub>@1027490407</sub></kbd>
