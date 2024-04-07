@@ -13,7 +13,7 @@
 - [并行计算](/0023_PARA)
   - [DPC++](/0026_PARA_DPCPP)
     - [架构及相关概念](/0015_PARA_DPCPP_Arch)
-    - [DEBUG](/0016_PARA_DPCPP_DEBUG)
+    - [DPCPP Debug](/0016_PARA_DPCPP_DEBUG)
   - [NDRange](/0018_PARA_NDRange)
   - [OpenCL](/0033_PARA_OpenCL)
     - [Install](/0034_PARA_OpenCL_Install)
@@ -37,4 +37,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1029110407</sub></kbd>
+<kbd><sub>@1030370407</sub></kbd>
