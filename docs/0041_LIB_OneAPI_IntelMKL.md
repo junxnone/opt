@@ -1,8 +1,8 @@
 ---
-Title | OPT LIB OneAPI IntelMKL
+Title | LIB OneAPI IntelMKL
 -- | --
 Created @ | `2021-08-03T02:32:35Z`
-Updated @| `2024-04-07T03:08:48Z`
+Updated @| `2024-04-07T03:09:48Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/41)
 
