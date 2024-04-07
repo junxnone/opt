@@ -16,8 +16,8 @@
   - [OpenCL](/0033_PARA_OpenCL)
     - [Install](/0034_PARA_OpenCL_Install)
   - OpenMP
-    - [API](/0028_PARA_OpenMP_API)
-    - [绑定CPU核](/0027_PARA_OpenMP_BindCore)
+    - [OpenMP API](/0028_PARA_OpenMP_API)
+    - [OpenMP 绑核](/0027_PARA_OpenMP_BindCore)
     - [OpenMP Directives](/0020_PARA_OpenMP_Directives)
     - [OpenMP Offload](/0024_PARA_OpenMP_Offload)
     - [OpenMP SIMD](/0025_PARA_OpenMP_SIMD)
@@ -36,4 +36,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1032590407</sub></kbd>
+<kbd><sub>@1034020407</sub></kbd>
