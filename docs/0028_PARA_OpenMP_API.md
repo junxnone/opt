@@ -2,16 +2,13 @@
 Title | PARA OpenMP API
 -- | --
 Created @ | `2021-08-07T03:56:52Z`
-Updated @| `2024-04-07T02:27:04Z`
+Updated @| `2024-04-07T02:32:34Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/28)
 
 ---
-## Reference
-- [OMP 函数](https://docs.microsoft.com/zh-cn/cpp/parallel/openmp/reference/openmp-functions?view=msvc-160)
-- [OpenMP-API-Specification-5.0](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf)
 
-## Brief
+# OpenMP API
 - API 分类
   - 环境设定获取
   - 锁定
@@ -54,4 +51,8 @@ omp_test_nest_lock | 尝试设置 a.17 锁，但不会阻塞线程的执行。
 -- | --
 omp_get_wtime | 返回一段时间内所用时间的值（以秒为单位）。
 omp_get_wtick | 返回处理器时钟计时周期之间的秒数。
+
+## Reference
+- [OMP 函数](https://docs.microsoft.com/zh-cn/cpp/parallel/openmp/reference/openmp-functions?view=msvc-160)
+- [OpenMP-API-Specification-5.0](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf)
 
