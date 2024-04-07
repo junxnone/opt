@@ -1,8 +1,8 @@
 ---
-Title | OPT Tools Advisor
+Title | Tools Advisor
 -- | --
 Created @ | `2023-03-07T15:27:18Z`
-Updated @| `2024-04-07T02:18:00Z`
+Updated @| `2024-04-07T02:18:49Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/8)
 
