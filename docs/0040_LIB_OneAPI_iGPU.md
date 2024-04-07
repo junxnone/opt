@@ -1,8 +1,8 @@
 ---
-Title | OPT LIB OneAPI iGPU
+Title | LIB OneAPI iGPU
 -- | --
 Created @ | `2021-07-26T07:30:03Z`
-Updated @| `2024-04-07T03:10:43Z`
+Updated @| `2024-04-07T03:11:33Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/40)
 
