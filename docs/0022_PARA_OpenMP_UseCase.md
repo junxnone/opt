@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA OpenMP UseCase
+Title | PARA OpenMP UseCase
 -- | --
 Created @ | `2021-11-05T09:31:24Z`
-Updated @| `2024-04-07T02:24:32Z`
+Updated @| `2024-04-07T02:26:35Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/22)
 
