@@ -2,14 +2,13 @@
 Title | PARA OpenMP UseCase
 -- | --
 Created @ | `2021-11-05T09:31:24Z`
-Updated @| `2024-04-07T02:26:35Z`
+Updated @| `2024-04-07T02:31:02Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/22)
 
 ---
-## Reference
 
-## Brief
+# OpenMP UseCase
 - 头文件  `include <omp.h>`
 - 格式 `#pragma omp <编译关键字> [ 子句[ [,] 子句]…… ]`
 
@@ -39,3 +38,6 @@ Edit @| [here](https://github.com/junxnone/opt/issues/22)
 ```
 - single
 - task
+
+## Reference
+
