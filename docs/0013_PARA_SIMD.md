@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA SIMD
+Title | PARA SIMD
 -- | --
 Created @ | `2023-07-26T07:07:32Z`
-Updated @| `2024-04-07T02:23:51Z`
+Updated @| `2024-04-07T02:25:52Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/13)
 
