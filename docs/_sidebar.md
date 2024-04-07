@@ -6,6 +6,8 @@
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)
 - [性能优化](/0003_OPT)
+  - Tools
+    - [Intel Vtune](/0006_OPT_Tools_Vtune)
 - [并行计算](/0023_PARA)
   - [DPC++](/0026_PARA_DPCPP)
     - [架构及相关概念](/0015_PARA_DPCPP_Arch)
@@ -17,10 +19,10 @@
     - [API](/0028_PARA_OpenMP_API)
     - [绑定CPU核](/0027_PARA_OpenMP_BindCore)
     - [OpenMP Directives](/0020_PARA_OpenMP_Directives)
-    - [Offload](/0024_PARA_OpenMP_Offload)
-    - [SIMD](/0025_PARA_OpenMP_SIMD)
+    - [OpenMP Offload](/0024_PARA_OpenMP_Offload)
+    - [OpenMP SIMD](/0025_PARA_OpenMP_SIMD)
     - [OpenMP Task](/0019_PARA_OpenMP_Task)
-    - [UseCase](/0022_PARA_OpenMP_UseCase)
+    - [OpenMP UseCase](/0022_PARA_OpenMP_UseCase)
     - [OpenMP 变量](/0021_PARA_OpenMP_VAR)
   - [OpenMPI](/0035_PARA_OpenMPI)
   - [Parallel Patterns](/0014_PARA_Patterns)
@@ -34,4 +36,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1031440407</sub></kbd>
+<kbd><sub>@1032590407</sub></kbd>
