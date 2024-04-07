@@ -3,17 +3,13 @@
 | Title     | PARA SYCL Projects                                |
 | --------- | ------------------------------------------------- |
 | Created @ | `2021-12-13T03:17:48Z`                            |
-| Updated @ | `2024-04-07T02:26:12Z`                            |
+| Updated @ | `2024-04-07T02:29:50Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/opt/issues/17) |
 
 -----
 
-## Reference
-
-  - [SYCL benchmarks](https://sycl.tech/projects/)
-
-## Brief
+# SYCL Projects
 
   - 一些使用 SYCL 的库
       - Eigen (基于 ComputeCpp)
@@ -38,3 +34,7 @@
 
 > DPCT is [Intel® DPC++ Compatibility
 > Tool](https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compatibility-tool.html)
+
+## Reference
+
+  - [SYCL benchmarks](https://sycl.tech/projects/)
