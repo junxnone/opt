@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           actor: ${{ github.actor }}
           docs_path: "docs"
-          root_node: "twiki"
+          root_node: "opt"
