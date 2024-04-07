@@ -1,4 +1,7 @@
 - [性能优化](/0003_OPT)
+  - [GPU 性能优化](/0046_OPT_GPU)
+  - [Loop](/0049_OPT_Loop)
+  - [TMA](/0047_OPT_TMA)
 - [并行计算](/0023_PARA)
   - [DPC++](/0026_PARA_DPCPP)
     - [架构及相关概念](/0015_PARA_DPCPP_Arch)
@@ -44,4 +47,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1117550407</sub></kbd>
+<kbd><sub>@1512350407</sub></kbd>
