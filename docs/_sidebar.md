@@ -1,4 +1,11 @@
 - [性能优化](/0003_OPT)
+  - LIB
+    - [IPP Intel Integrated Performance Primitives](/0038_OPT_LIB_IPP)
+    - [OneAPI](/0039_OPT_LIB_OneAPI)
+      - [IntelMKL](/0041_OPT_LIB_OneAPI_IntelMKL)
+      - [Level Zero](/0042_OPT_LIB_OneAPI_LevelZero)
+      - [OneAPI iGPU](/0040_OPT_LIB_OneAPI_iGPU)
+      - [Intel OneAPI oneDPL](/0043_OPT_LIB_OneAPI_oneDPL)
 - [并行计算](/0023_PARA)
   - [DPC++](/0026_PARA_DPCPP)
     - [架构及相关概念](/0015_PARA_DPCPP_Arch)
@@ -36,4 +43,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1109220407</sub></kbd>
+<kbd><sub>@1110170407</sub></kbd>
