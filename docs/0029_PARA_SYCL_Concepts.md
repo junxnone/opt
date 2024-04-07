@@ -2,16 +2,13 @@
 Title | PARA SYCL Concepts
 -- | --
 Created @ | `2021-07-29T07:06:30Z`
-Updated @| `2024-04-07T02:27:09Z`
+Updated @| `2024-04-07T02:32:53Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/29)
 
 ---
-## Reference
-- [Reference Guide](https://www.khronos.org/files/sycl/sycl-121-reference-guide.pdf)
-- [Reference Index](https://sycl.readthedocs.io/en/latest/index.html)
 
-## Brief
+# SYCL Concepts
 - Platform
 - Context
 - Device
@@ -33,4 +30,9 @@ Edit @| [here](https://github.com/junxnone/opt/issues/29)
 - SYCL atomic operations are now more closely aligned to standard C++ atomics 
 
 ## UseCase
+
+
+## Reference
+- [Reference Guide](https://www.khronos.org/files/sycl/sycl-121-reference-guide.pdf)
+- [Reference Index](https://sycl.readthedocs.io/en/latest/index.html)
 
