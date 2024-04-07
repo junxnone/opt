@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA OpenCL
+Title | PARA OpenCL
 -- | --
 Created @ | `2021-01-25T07:01:15Z`
-Updated @| `2024-04-07T02:25:17Z`
+Updated @| `2024-04-07T02:27:26Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/33)
 
