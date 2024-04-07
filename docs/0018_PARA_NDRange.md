@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA NDRange
+Title | PARA NDRange
 -- | --
 Created @ | `2021-11-19T01:12:36Z`
-Updated @| `2024-04-07T02:24:17Z`
+Updated @| `2024-04-07T02:26:16Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/18)
 
