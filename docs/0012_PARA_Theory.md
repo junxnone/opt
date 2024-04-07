@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA Theory
+Title | PARA Theory
 -- | --
 Created @ | `2023-09-01T10:25:40Z`
-Updated @| `2024-04-07T02:23:46Z`
+Updated @| `2024-04-07T02:25:48Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/12)
 
