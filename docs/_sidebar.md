@@ -28,12 +28,12 @@
   - [Parallel Patterns](/0014_PARA_Patterns)
   - [SIMD](/0013_PARA_SIMD)
   - [SYCL](/0031_PARA_SYCL)
-    - [Concepts](/0029_PARA_SYCL_Concepts)
+    - [SYCL Concepts](/0029_PARA_SYCL_Concepts)
     - [ESIMD](/0011_PARA_SYCL_ESIMD)
     - [SYCL Projects](/0017_PARA_SYCL_Projects)
-    - [SPIR](/0030_PARA_SYCL_SPIR)
+    - [SYCL SPIR](/0030_PARA_SYCL_SPIR)
   - [并行计算理论](/0012_PARA_Theory)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1034020407</sub></kbd>
+<kbd><sub>@1035020407</sub></kbd>
