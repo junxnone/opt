@@ -2,33 +2,15 @@
 Title |  PARA OpenMP
 -- | --
 Created @ | `2021-05-20T03:29:59Z`
-Updated @| `2024-04-07T02:27:22Z`
+Updated @| `2024-04-07T02:33:56Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/32)
 
 ---
-## Reference
-- [OpenMP API Specification](https://www.openmp.org/specifications/)
-- [OpenMP Reference Guide](https://www.openmp.org/resources/refguides/)
-- [OpenMP Compilers & Tools](https://www.openmp.org/resources/openmp-compilers-tools/)
-- [OpenMP sample code](https://github.com/OpenMP/Examples/tree/main/sources) [[examples notebook -- passlab](https://passlab.github.io/Examples/intro.html)]
-- [OpenMP学习笔记](https://blog.csdn.net/qq_40379678/article/details/107788716)
-- [并行计算 - 华东师范大学 ](http://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/) 
-  - [lect04_OpenMP01_C.pdf](https://github.com/junxnone/tech-io/files/6613360/lect04_OpenMP01_C.pdf)
-  - [lect04_OpenMP02_C.pdf](https://github.com/junxnone/tech-io/files/6613361/lect04_OpenMP02_C.pdf)
-  - [lect04_OpenMP03_C.pdf](https://github.com/junxnone/tech-io/files/6613363/lect04_OpenMP03_C.pdf)
-- [OpenMP并行编程.pdf -  中科院计算机网络信息中心](https://github.com/junxnone/tech-io/files/6986206/OpenMP.pdf)
-- [C/C++ openMP并发编程](https://blog.csdn.net/qq_30024069/article/details/93355022)
-- [OpenMP Training video](https://www.youtube.com/watch?v=nE-xN4Bf8XI&list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
-- [HPC.NRW OpenMP Online Tutorial](https://hpc-wiki.info/hpc/OpenMP_in_Small_Bites)
-- [OpenMP Tutorial - Lawrence Livermore National Laboratory - OpenMP 3.1](https://hpc.llnl.gov/tuts/openMP/)
-- [Oracle_OpenMP_4.0_Guide.pdf](https://github.com/junxnone/linuxwiki/files/7490883/Oracle_OpenMP_4.0_Guide.pdf)
-- [Portable_Shared_Memory_Parallel_Programming.pdf](https://github.com/junxnone/linuxwiki/files/7491145/Portable_Shared_Memory_Parallel_Programming.pdf)
-- [NUMA in OpenMP](https://www.openmp.org/wp-content/uploads/OpenMPBoothTalks-SC21-Ruud-NUMA.part_.1.pdf)
 
 
 
-## Brief
+# OpenMP
 - OpenMP 是一个写 `shared memory parallel` 应用的规范
 - 规范定义的内容
   - Compiler Directives - 编译指令
@@ -85,4 +67,22 @@ UMA | NUMA
 - 11/2015 OpenMP 4.5
 - 11/2018 OpenMP 5.0 C11/C++17/Fortran 2008 Support
 
+## Reference
+- [OpenMP API Specification](https://www.openmp.org/specifications/)
+- [OpenMP Reference Guide](https://www.openmp.org/resources/refguides/)
+- [OpenMP Compilers & Tools](https://www.openmp.org/resources/openmp-compilers-tools/)
+- [OpenMP sample code](https://github.com/OpenMP/Examples/tree/main/sources) [[examples notebook -- passlab](https://passlab.github.io/Examples/intro.html)]
+- [OpenMP学习笔记](https://blog.csdn.net/qq_40379678/article/details/107788716)
+- [并行计算 - 华东师范大学 ](http://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/) 
+  - [lect04_OpenMP01_C.pdf](https://github.com/junxnone/tech-io/files/6613360/lect04_OpenMP01_C.pdf)
+  - [lect04_OpenMP02_C.pdf](https://github.com/junxnone/tech-io/files/6613361/lect04_OpenMP02_C.pdf)
+  - [lect04_OpenMP03_C.pdf](https://github.com/junxnone/tech-io/files/6613363/lect04_OpenMP03_C.pdf)
+- [OpenMP并行编程.pdf -  中科院计算机网络信息中心](https://github.com/junxnone/tech-io/files/6986206/OpenMP.pdf)
+- [C/C++ openMP并发编程](https://blog.csdn.net/qq_30024069/article/details/93355022)
+- [OpenMP Training video](https://www.youtube.com/watch?v=nE-xN4Bf8XI&list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
+- [HPC.NRW OpenMP Online Tutorial](https://hpc-wiki.info/hpc/OpenMP_in_Small_Bites)
+- [OpenMP Tutorial - Lawrence Livermore National Laboratory - OpenMP 3.1](https://hpc.llnl.gov/tuts/openMP/)
+- [Oracle_OpenMP_4.0_Guide.pdf](https://github.com/junxnone/linuxwiki/files/7490883/Oracle_OpenMP_4.0_Guide.pdf)
+- [Portable_Shared_Memory_Parallel_Programming.pdf](https://github.com/junxnone/linuxwiki/files/7491145/Portable_Shared_Memory_Parallel_Programming.pdf)
+- [NUMA in OpenMP](https://www.openmp.org/wp-content/uploads/OpenMPBoothTalks-SC21-Ruud-NUMA.part_.1.pdf)
 
