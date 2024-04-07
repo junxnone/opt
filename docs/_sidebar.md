@@ -14,7 +14,7 @@
     - [DPCPP Debug](/0016_PARA_DPCPP_DEBUG)
   - [NDRange](/0018_PARA_NDRange)
   - [OpenCL](/0033_PARA_OpenCL)
-    - [Install](/0034_PARA_OpenCL_Install)
+    - [OpenCL Install](/0034_PARA_OpenCL_Install)
   - OpenMP
     - [OpenMP API](/0028_PARA_OpenMP_API)
     - [OpenMP 绑核](/0027_PARA_OpenMP_BindCore)
@@ -36,4 +36,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1035580407</sub></kbd>
+<kbd><sub>@1037180407</sub></kbd>
