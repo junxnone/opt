@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA DPCPP
+Title | PARA DPCPP
 -- | --
 Created @ | `2021-10-28T08:00:47Z`
-Updated @| `2024-04-07T02:24:47Z`
+Updated @| `2024-04-07T02:26:52Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/26)
 
