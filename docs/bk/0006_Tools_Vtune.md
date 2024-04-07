@@ -3,7 +3,7 @@
 | Title     | Tools Vtune                                      |
 | --------- | ------------------------------------------------ |
 | Created @ | `2018-09-28T05:35:41Z`                           |
-| Updated @ | `2024-04-07T02:18:39Z`                           |
+| Updated @ | `2024-04-07T02:36:34Z`                           |
 | Labels    | \`\`                                             |
 | Edit @    | [here](https://github.com/junxnone/opt/issues/6) |
 
@@ -20,7 +20,6 @@
       - 从当前系统中收集性能数据；
       - 从系统到源代码不同的层次上，以不同的互动形式来组织和展示数据；
       - 发现潜在的性能问题，并提出改进措施。
-  - [Vtune Command Line](/0020_OPT_Tools_Vtune_CommandLine)
 
 ## Overview
 
