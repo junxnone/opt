@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA OpenMPI
+Title | PARA OpenMPI
 -- | --
 Created @ | `2019-01-31T05:10:39Z`
-Updated @| `2024-04-07T02:25:33Z`
+Updated @| `2024-04-07T02:27:36Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/35)
 
