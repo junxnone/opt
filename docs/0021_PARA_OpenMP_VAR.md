@@ -2,12 +2,12 @@
 Title | PARA OpenMP VAR
 -- | --
 Created @ | `2021-11-05T09:34:58Z`
-Updated @| `2024-04-07T02:26:31Z`
+Updated @| `2024-04-07T02:30:36Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/21)
 
 ---
-# 变量
+# OpenMP 变量
 
 ## Reference
 - [OpenMP Internal Control Variables](https://www.openmp.org/spec-html/5.0/openmpse13.html)
