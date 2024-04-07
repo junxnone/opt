@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA OpenMP Task
+Title | PARA OpenMP Task
 -- | --
 Created @ | `2021-11-18T08:03:50Z`
-Updated @| `2024-04-07T02:24:20Z`
+Updated @| `2024-04-07T02:26:21Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/19)
 
