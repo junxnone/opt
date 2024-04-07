@@ -11,6 +11,8 @@
       - [架构及相关概念](/0015_OPT_PARA_DPCPP_Arch)
       - [DEBUG](/0016_OPT_PARA_DPCPP_DEBUG)
     - [NDRange](/0018_OPT_PARA_NDRange)
+    - [OpenCL](/0033_OPT_PARA_OpenCL)
+      - [Install](/0034_OPT_PARA_OpenCL_Install)
     - OpenMP
       - [API](/0028_OPT_PARA_OpenMP_API)
       - [Directives](/0020_OPT_PARA_OpenMP_Directives)
@@ -21,11 +23,15 @@
       - [变量](/0021_OPT_PARA_OpenMP_VAR)
     - [Parallel Patterns](/0014_OPT_PARA_Patterns)
     - [SIMD](/0013_OPT_PARA_SIMD)
-    - SYCL
-      - [ESIMD](/0011_OPT_PARA_SYCL_ESIMD)
+    - [SYCL](/0031_OPT_PARA_SYCL)
+      - [Concepts](/0029_OPT_PARA_SYCL_Concepts)
       - [Projects](/0017_OPT_PARA_SYCL_Projects)
-    - [并行计算理论](/0012_OPT_PARA_Theory)
+      - [SPIR](/0030_OPT_PARA_SYCL_SPIR)
+- PARA
+  - SYCL
+    - [ESIMD](/0011_PARA_SYCL_ESIMD)
+  - [并行计算理论](/0012_PARA_Theory)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1026070407</sub></kbd>
+<kbd><sub>@1027000407</sub></kbd>
