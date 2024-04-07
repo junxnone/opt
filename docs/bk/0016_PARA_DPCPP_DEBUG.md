@@ -3,24 +3,13 @@
 | Title     | PARA DPCPP DEBUG                                  |
 | --------- | ------------------------------------------------- |
 | Created @ | `2022-01-18T03:26:23Z`                            |
-| Updated @ | `2024-04-07T02:26:07Z`                            |
+| Updated @ | `2024-04-07T02:28:24Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/opt/issues/16) |
 
 -----
 
-## Reference
-
-  - [Debug the Offload
-    Process](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/debugging-the-dpc-and-openmp-offload-process/debug-the-offload-process.html)
-  - [OneAPI Debug
-    Tools](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/debugging-the-dpc-and-openmp-offload-process/oneapi-debug-tools.html)
-  - [Intercept Layer for
-    OpenCL](https://github.com/intel/opencl-intercept-layer)
-  - [Level Zero
-    Tracer](https://github.com/intel/pti-gpu/tree/master/tools/ze_tracer)
-
-## Brief
+# DPCPP Debug
 
   - `sycl printf`
   - Environment variables
@@ -86,3 +75,14 @@
     [opencl:gpu:2] Intel(R) OpenCL HD Graphics, Intel(R) UHD Graphics 620 3.0 [31.0.101.2114]
     [ext_oneapi_level_zero:gpu:0] Intel(R) Level-Zero, Intel(R) UHD Graphics 620 1.3 [1.3.0]
     [host:host:0] SYCL host platform, SYCL host device 1.2 [1.2]
+
+## Reference
+
+  - [Debug the Offload
+    Process](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/debugging-the-dpc-and-openmp-offload-process/debug-the-offload-process.html)
+  - [OneAPI Debug
+    Tools](https://www.intel.com/content/www/us/en/develop/documentation/oneapi-programming-guide/top/software-development-process/debugging-the-dpc-and-openmp-offload-process/oneapi-debug-tools.html)
+  - [Intercept Layer for
+    OpenCL](https://github.com/intel/opencl-intercept-layer)
+  - [Level Zero
+    Tracer](https://github.com/intel/pti-gpu/tree/master/tools/ze_tracer)
