@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA Patterns
+Title | PARA Patterns
 -- | --
 Created @ | `2023-03-10T08:30:25Z`
-Updated @| `2024-04-07T02:23:56Z`
+Updated @| `2024-04-07T02:25:58Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/14)
 
