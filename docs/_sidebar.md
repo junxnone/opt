@@ -6,10 +6,6 @@
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)
 - [性能优化](/0003_OPT)
-  - PARA
-    - OpenMP
-      - [UseCase](/0022_OPT_PARA_OpenMP_UseCase)
-    - [SYCL](/0031_OPT_PARA_SYCL)
 - [并行计算](/0023_PARA)
   - [DPC++](/0026_PARA_DPCPP)
     - [架构及相关概念](/0015_PARA_DPCPP_Arch)
@@ -20,21 +16,22 @@
   - OpenMP
     - [API](/0028_PARA_OpenMP_API)
     - [绑定CPU核](/0027_PARA_OpenMP_BindCore)
-    - [Directives](/0020_PARA_OpenMP_Directives)
+    - [OpenMP Directives](/0020_PARA_OpenMP_Directives)
     - [Offload](/0024_PARA_OpenMP_Offload)
     - [SIMD](/0025_PARA_OpenMP_SIMD)
-    - [Task](/0019_PARA_OpenMP_Task)
-    - [变量](/0021_PARA_OpenMP_VAR)
+    - [OpenMP Task](/0019_PARA_OpenMP_Task)
+    - [UseCase](/0022_PARA_OpenMP_UseCase)
+    - [OpenMP 变量](/0021_PARA_OpenMP_VAR)
   - [OpenMPI](/0035_PARA_OpenMPI)
   - [Parallel Patterns](/0014_PARA_Patterns)
   - [SIMD](/0013_PARA_SIMD)
-  - SYCL
+  - [SYCL](/0031_PARA_SYCL)
     - [Concepts](/0029_PARA_SYCL_Concepts)
     - [ESIMD](/0011_PARA_SYCL_ESIMD)
-    - [Projects](/0017_PARA_SYCL_Projects)
+    - [SYCL Projects](/0017_PARA_SYCL_Projects)
     - [SPIR](/0030_PARA_SYCL_SPIR)
   - [并行计算理论](/0012_PARA_Theory)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1030370407</sub></kbd>
+<kbd><sub>@1031440407</sub></kbd>
