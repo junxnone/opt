@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA SYCL Concepts
+Title | PARA SYCL Concepts
 -- | --
 Created @ | `2021-07-29T07:06:30Z`
-Updated @| `2024-04-07T02:25:01Z`
+Updated @| `2024-04-07T02:27:09Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/29)
 
