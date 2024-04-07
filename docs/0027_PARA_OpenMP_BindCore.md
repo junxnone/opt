@@ -2,12 +2,12 @@
 Title | PARA OpenMP BindCore
 -- | --
 Created @ | `2021-08-09T10:13:27Z`
-Updated @| `2024-04-07T02:26:56Z`
+Updated @| `2024-04-07T02:32:05Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/27)
 
 ---
-# 绑定CPU核
+# OpenMP 绑核
 
 ## Reference
 - [OpenMP Affinity - ](https://www.openmp.org/wp-content/uploads/openmp-examples-4.5.0.pdf)
