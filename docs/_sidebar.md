@@ -6,8 +6,6 @@
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)
 - [性能优化](/0003_OPT)
-  - Tools
-    - [Intel Vtune](/0006_OPT_Tools_Vtune)
 - [并行计算](/0023_PARA)
   - [DPC++](/0026_PARA_DPCPP)
     - [架构及相关概念](/0015_PARA_DPCPP_Arch)
@@ -36,4 +34,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1037180407</sub></kbd>
+<kbd><sub>@1042430407</sub></kbd>
