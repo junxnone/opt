@@ -2,21 +2,14 @@
 Title | PARA OpenCL
 -- | --
 Created @ | `2021-01-25T07:01:15Z`
-Updated @| `2024-04-07T02:27:26Z`
+Updated @| `2024-04-07T02:34:13Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/33)
 
 ---
-## Reference
-- [OpenCL - wikipedia](https://en.wikipedia.org/wiki/OpenCL)
-- [OpenCL简介](https://blog.csdn.net/XianBT/article/details/18914273)
-- [组织官网](http://www.khronos.org/)
-- [OpenCL 官网](https://www.khronos.org/opencl/)
-- [OpenCL Guide](https://github.com/KhronosGroup/OpenCL-Guide)
-- [OpenCL Resource](https://www.khronos.org/opencl/resources)
-- [OpenCL 2.0 异构计算 [第三版] （Heterogeneous Computing with OpenCL 2.0）](https://www.bookstack.cn/books/Heterogeneous-Computing-with-OpenCL-2.0)
 
-## Brief
+
+# OpenCL 
 - OpenCL - Open Computing Language - 开放计算机语言
 - 一个用于异构(CPU/GPU/DSP) 编程的框架/规范
 - 定义了API，硬件底层实现由各公司实现 (Intel/NVIDIA/AMD)
@@ -50,3 +43,12 @@ Edit @| [here](https://github.com/junxnone/opt/issues/33)
 
 ## History
 
+
+## Reference
+- [OpenCL - wikipedia](https://en.wikipedia.org/wiki/OpenCL)
+- [OpenCL简介](https://blog.csdn.net/XianBT/article/details/18914273)
+- [组织官网](http://www.khronos.org/)
+- [OpenCL 官网](https://www.khronos.org/opencl/)
+- [OpenCL Guide](https://github.com/KhronosGroup/OpenCL-Guide)
+- [OpenCL Resource](https://www.khronos.org/opencl/resources)
+- [OpenCL 2.0 异构计算 [第三版] （Heterogeneous Computing with OpenCL 2.0）](https://www.bookstack.cn/books/Heterogeneous-Computing-with-OpenCL-2.0)
