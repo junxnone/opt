@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA SYCL ESIMD
+Title | PARA SYCL ESIMD
 -- | --
 Created @ | `2024-01-15T14:47:08Z`
-Updated @| `2024-04-07T02:23:41Z`
+Updated @| `2024-04-07T02:25:42Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/11)
 
