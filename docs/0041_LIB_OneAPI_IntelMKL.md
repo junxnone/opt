@@ -2,19 +2,13 @@
 Title | LIB OneAPI IntelMKL
 -- | --
 Created @ | `2021-08-03T02:32:35Z`
-Updated @| `2024-04-07T03:09:48Z`
+Updated @| `2024-04-07T03:10:26Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/41)
 
 ---
-## Reference
-- [Spec](https://spec.oneapi.io/versions/latest/index.html)
-- [oneMKL Interfaces](https://oneapi-src.github.io/oneMKL/index.html)
-- [Intel® oneAPI Math Kernel Library Link Line Advisor](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-link-line-advisor.html)
-- [Get Started Guide](https://www.intel.com/content/www/us/en/develop/documentation/get-started-with-mkl-for-dpcpp/top.html)
-- [Developer Reference C API](https://www.intel.com/content/www/us/en/develop/documentation/onemkl-developer-reference-c/top.html)
 
-## Brief
+# IntelMKL
 - MKL - `Math Kernel Library`
 - Intel-Optimized Math Library for Numerical Computing
 - Functions
@@ -63,3 +57,11 @@ iamin | $Min(x_i)$ | Vector x 中绝对值最小的值
 ```
 icc  app.obj -L${MKLROOT}/lib/intel64 -lmkl_intel_lp64-lmkl_intel_thread -lmkl_core
 ```
+
+## Reference
+- [Spec](https://spec.oneapi.io/versions/latest/index.html)
+- [oneMKL Interfaces](https://oneapi-src.github.io/oneMKL/index.html)
+- [Intel® oneAPI Math Kernel Library Link Line Advisor](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-link-line-advisor.html)
+- [Get Started Guide](https://www.intel.com/content/www/us/en/develop/documentation/get-started-with-mkl-for-dpcpp/top.html)
+- [Developer Reference C API](https://www.intel.com/content/www/us/en/develop/documentation/onemkl-developer-reference-c/top.html)
+
