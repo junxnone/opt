@@ -1,9 +1,14 @@
 # Wiki History
 
+- 2024-01-15        [OPT PARA SYCL ESIMD](/0011_OPT_PARA_SYCL_ESIMD)
+- 2023-09-01        [OPT PARA Theory](/0012_OPT_PARA_Theory)
 - 2023-09-01        [Tools Linux](/0005_Tools_Linux)
+- 2023-07-26        [OPT PARA SIMD](/0013_OPT_PARA_SIMD)
 - 2023-07-20        [Tools Vtune DebugAPI](/0010_Tools_Vtune_DebugAPI)
 - 2023-06-17        [Tools](/0004_Tools)
 - 2023-05-25        [Tools Vtune iGPU](/0009_Tools_Vtune_iGPU)
+- 2023-03-10        [OPT PARA Patterns](/0014_OPT_PARA_Patterns)
+- 2023-03-07        [OPT PARA DPCPP Arch](/0015_OPT_PARA_DPCPP_Arch)
 - 2023-03-07        [Tools Advisor](/0008_Tools_Advisor)
 - 2022-09-09        [Tools Vtune CommandLine](/0007_Tools_Vtune_CommandLine)
 - 2022-04-25        [OPT](/0003_OPT)
