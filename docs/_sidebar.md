@@ -1,8 +1,5 @@
 - [性能优化](/0003_OPT)
   - LIB
-    - [IPP Intel Integrated Performance Primitives](/0038_OPT_LIB_IPP)
-    - [OneAPI](/0039_OPT_LIB_OneAPI)
-      - [OneAPI iGPU](/0040_OPT_LIB_OneAPI_iGPU)
     - [Highway](/0045_OPT_LIB_highway)
 - [并行计算](/0023_PARA)
   - [DPC++](/0026_PARA_DPCPP)
@@ -39,12 +36,14 @@
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)
 - [性能优化库](/0044_LIB)
-  - OneAPI
+  - [IPP Intel Integrated Performance Primitives](/0038_LIB_IPP)
+  - [OneAPI](/0039_LIB_OneAPI)
     - [IntelMKL](/0041_LIB_OneAPI_IntelMKL)
     - [Level Zero](/0042_LIB_OneAPI_LevelZero)
+    - [OneAPI iGPU](/0040_LIB_OneAPI_iGPU)
     - [Intel OneAPI oneDPL](/0043_LIB_OneAPI_oneDPL)
   - [Highway](/0045_LIB_highway)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1112220407</sub></kbd>
+<kbd><sub>@1114380407</sub></kbd>
