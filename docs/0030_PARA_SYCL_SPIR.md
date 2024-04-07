@@ -2,20 +2,14 @@
 Title | PARA SYCL SPIR
 -- | --
 Created @ | `2021-07-29T02:23:07Z`
-Updated @| `2024-04-07T02:27:12Z`
+Updated @| `2024-04-07T02:33:11Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/30)
 
 ---
-## Reference
-- [SPIR - khronos](https://www.khronos.org/spir/)
-- [SPIR-V Registry](https://www.khronos.org/registry/SPIR-V/)
-- [SPIR-V Guide](https://github.com/KhronosGroup/SPIRV-Guide)
-- [SPIR-V specs](https://www.khronos.org/registry/SPIR-V/specs/unified1/SPIRV.html#_introduction)
-- [SPIR-V Tutorials - Google](https://github.com/google/spirv-tutor)
 
 
-## Brief
+# SYCL SPIR
 - **SPIR** - `Standard Portable Intermediate Representation` - `OpenCL`
 - **SPIR-V** - SPIR 升级版 - `OpenCL/OpenGL/Vulkan`
 - [Tools - SPIR Visualizer](https://www.khronos.org/spir/visualizer/)
@@ -42,4 +36,10 @@ Edit @| [here](https://github.com/junxnone/opt/issues/30)
 - 2014/6 SPIR 2.0
 - 2021/1 SPIR-V 1.5
 
+## Reference
+- [SPIR - khronos](https://www.khronos.org/spir/)
+- [SPIR-V Registry](https://www.khronos.org/registry/SPIR-V/)
+- [SPIR-V Guide](https://github.com/KhronosGroup/SPIRV-Guide)
+- [SPIR-V specs](https://www.khronos.org/registry/SPIR-V/specs/unified1/SPIRV.html#_introduction)
+- [SPIR-V Tutorials - Google](https://github.com/google/spirv-tutor)
 
