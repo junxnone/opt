@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA OpenMP Offload
+Title | PARA OpenMP Offload
 -- | --
 Created @ | `2021-11-03T05:56:24Z`
-Updated @| `2024-04-07T02:24:39Z`
+Updated @| `2024-04-07T02:26:44Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/24)
 
