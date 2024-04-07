@@ -2,17 +2,13 @@
 Title | OPT LIB OneAPI iGPU
 -- | --
 Created @ | `2021-07-26T07:30:03Z`
-Updated @| `2024-04-07T03:08:44Z`
+Updated @| `2024-04-07T03:10:43Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/40)
 
 ---
 # OneAPI iGPU
 
-## Reference
-- [适合GPU运算的类型](https://blog.csdn.net/fortuna_i/article/details/81183971)
-
-## Brief
 
 - 足够多的task，使计算资源占满
 - 最小化host(CPU) 和 device(GPU) 同步
@@ -44,4 +40,9 @@ Edit @| [here](https://github.com/junxnone/opt/issues/40)
 
 
 ## UseCase
+
+
+## Reference
+- [适合GPU运算的类型](https://blog.csdn.net/fortuna_i/article/details/81183971)
+
 
