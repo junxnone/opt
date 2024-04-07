@@ -1,5 +1,4 @@
 - [性能优化](/0003_OPT)
-  - [GPU 性能优化](/0046_OPT_GPU)
   - [Loop](/0049_OPT_Loop)
   - [TMA](/0047_OPT_TMA)
 - [并行计算](/0023_PARA)
@@ -36,6 +35,7 @@
     - [Vtune CommandLine Mode](/0007_Tools_Vtune_CommandLine)
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)
+- [GPU 性能优化](/0046_GPU)
 - [性能优化库](/0044_LIB)
   - [Highway](/0045_LIB_Highway)
   - [IPP Intel Integrated Performance Primitives](/0038_LIB_IPP)
@@ -47,4 +47,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1706450407</sub></kbd>
+<kbd><sub>@1707380407</sub></kbd>
