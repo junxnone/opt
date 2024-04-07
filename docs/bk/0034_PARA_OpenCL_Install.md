@@ -3,16 +3,13 @@
 | Title     | PARA OpenCL Install                               |
 | --------- | ------------------------------------------------- |
 | Created @ | `2020-03-18T08:05:25Z`                            |
-| Updated @ | `2024-04-07T02:27:31Z`                            |
+| Updated @ | `2024-04-07T02:34:47Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/opt/issues/34) |
 
 -----
 
-## Reference
-
-  - [intel compute-runtime
-    release](https://github.com/intel/compute-runtime/releases)
+# OpenCL Install
 
 ## Install on Ubuntu
 
@@ -198,3 +195,8 @@
       ICD loader Vendor                               OCL Icd free software
       ICD loader Version                              2.2.11
       ICD loader Profile                              OpenCL 2.1
+
+## Reference
+
+  - [intel compute-runtime
+    release](https://github.com/intel/compute-runtime/releases)
