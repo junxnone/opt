@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA OpenMP SIMD
+Title | PARA OpenMP SIMD
 -- | --
 Created @ | `2021-11-03T02:35:24Z`
-Updated @| `2024-04-07T02:24:43Z`
+Updated @| `2024-04-07T02:26:47Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/25)
 
