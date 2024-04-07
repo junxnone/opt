@@ -1,8 +1,8 @@
 ---
-Title | OPT Tools Linux
+Title | Tools Linux
 -- | --
 Created @ | `2023-09-01T14:28:56Z`
-Updated @| `2024-04-07T01:06:41Z`
+Updated @| `2024-04-07T02:17:11Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/5)
 
