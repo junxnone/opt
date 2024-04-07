@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA OpenCL Install
+Title | PARA OpenCL Install
 -- | --
 Created @ | `2020-03-18T08:05:25Z`
-Updated @| `2024-04-07T02:25:22Z`
+Updated @| `2024-04-07T02:27:31Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/34)
 
