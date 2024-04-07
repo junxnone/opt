@@ -1,20 +1,15 @@
 ---
-Title | OPT Memory CacheLine
+Title | Mem CacheLine
 -- | --
 Created @ | `2022-04-27T02:59:04Z`
-Updated @| `2024-04-07T02:42:58Z`
+Updated @| `2024-04-07T02:44:03Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/36)
 
 ---
-## Reference
-- [CPU Cache Optimization](https://zzqcn.github.io/perf/cpu_cache.html) [[code](https://github.com/zzqcn/storage/tree/main/code/c/cache_opt)]
-- [伪共享（False Sharing）](https://zhuanlan.zhihu.com/p/55917869)
-- [False Sharing - Intel Vtune](https://www.intel.com/content/www/us/en/develop/documentation/vtune-cookbook/top/tuning-recipes/false-sharing.html)
 
 
-## Brief
-- [[Cache]]
+# Memory Cacheline
 - 结构体定义导致的每次 Cache 读取效率低
   - 结构体中包含无用变量
   - 结构体中的数据类型混排对齐
@@ -104,4 +99,10 @@ Cache Line 读取区域 | <img width=200 src="https://user-images.githubusercont
 ### False Sharing
 
 ![image](https://user-images.githubusercontent.com/2216970/146132953-0c21c3c2-18c1-4041-a452-0ed3f7c148a3.png)
+
+
+## Reference
+- [CPU Cache Optimization](https://zzqcn.github.io/perf/cpu_cache.html) [[code](https://github.com/zzqcn/storage/tree/main/code/c/cache_opt)]
+- [伪共享（False Sharing）](https://zhuanlan.zhihu.com/p/55917869)
+- [False Sharing - Intel Vtune](https://www.intel.com/content/www/us/en/develop/documentation/vtune-cookbook/top/tuning-recipes/false-sharing.html)
 
