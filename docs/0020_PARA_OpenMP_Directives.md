@@ -1,8 +1,8 @@
 ---
-Title | OPT PARA OpenMP Directives
+Title | PARA OpenMP Directives
 -- | --
 Created @ | `2021-11-16T03:37:52Z`
-Updated @| `2024-04-07T02:24:24Z`
+Updated @| `2024-04-07T02:26:25Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/20)
 
