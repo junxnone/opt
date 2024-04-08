@@ -1,5 +1,4 @@
 - [性能优化](/0003_OPT)
-  - [Loop](/0049_OPT_Loop)
   - [TMA](/0047_OPT_TMA)
 - [并行计算](/0023_PARA)
   - [DPC++](/0026_PARA_DPCPP)
@@ -44,7 +43,8 @@
     - [Level Zero](/0042_LIB_OneAPI_LevelZero)
     - [OneAPI iGPU](/0040_LIB_OneAPI_iGPU)
     - [Intel OneAPI oneDPL](/0043_LIB_OneAPI_oneDPL)
+- [Loop](/0049_Loop)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1707380407</sub></kbd>
+<kbd><sub>@1616200408</sub></kbd>
