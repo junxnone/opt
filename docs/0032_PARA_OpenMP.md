@@ -1,8 +1,8 @@
 ---
-Title |  PARA OpenMP
+Title | PARA OpenMP
 -- | --
 Created @ | `2021-05-20T03:29:59Z`
-Updated @| `2024-04-19T17:25:37Z`
+Updated @| `2024-04-19T17:30:25Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/32)
 
