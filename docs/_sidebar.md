@@ -7,7 +7,7 @@
   - [NDRange](/0018_PARA_NDRange)
   - [OpenCL](/0033_PARA_OpenCL)
     - [OpenCL Install](/0034_PARA_OpenCL_Install)
-  - OpenMP
+  - [OpenMP](/0032_PARA_OpenMP)
     - [OpenMP API](/0028_PARA_OpenMP_API)
     - [OpenMP 绑核](/0027_PARA_OpenMP_BindCore)
     - [OpenMP Directives](/0020_PARA_OpenMP_Directives)
@@ -47,4 +47,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0131200420</sub></kbd>
+<kbd><sub>@0133200420</sub></kbd>
