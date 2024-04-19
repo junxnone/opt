@@ -3,7 +3,7 @@
 | Title     | PARA OpenMP                                       |
 | --------- | ------------------------------------------------- |
 | Created @ | `2021-05-20T03:29:59Z`                            |
-| Updated @ | `2024-04-07T02:33:56Z`                            |
+| Updated @ | `2024-04-19T17:25:37Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/opt/issues/32) |
 
@@ -19,14 +19,6 @@
   - 具体实现由编译器实现, 不同厂家的编译器对 OpenMP 的支持不一样
       - MSVC 目前只支持 2.0 & 部分 4.0 feature (SIMD)(`@20211105`)
       - ICC/GCC 目前支持 4.5 & 部分 5.x (`@20211105`)
-  - [OpenMP API](/OpenMP_API)
-  - [OpenMP Usecase](/OpenMP_Usecase)
-  - [OpenMP 变量](/OpenMP_变量)
-  - [OpenMP 绑核](/OpenMP_Bind_Core)
-  - [OpenMP SIMD](/OpenMP_SIMD)
-  - [OpenMP Offload](/OpenMP_Offload)
-  - [OpenMP Directives](OpenMP_Directives)
-  - [OpenMP Task](/OpenMP_Task)
 
 ## Shared Memory Model
 
