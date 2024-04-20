@@ -2,18 +2,19 @@
 Title | Tools Vtune
 -- | --
 Created @ | `2018-09-28T05:35:41Z`
-Updated @| `2024-04-07T02:36:34Z`
+Updated @| `2024-04-20T12:33:55Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/6)
 
 ---
 # Intel Vtune
 
-- VTune - Intel VTune Performance Analyzer 是一个用于分析和优化程序性能的工具
+- VTune - Intel VTune Profiler  是一个用于分析和优化`程序性能` , `系统性能` 的工具
   - 分析算法选项
   - 发现串行或并行代码的瓶颈
   - 了解应用如何被硬件资源影响
-  - 了解 App `Call Stacks`
+  - 了解 App `Call Stacks` 
+  - 分析系统瓶颈
 - VTune性能分析器能通过以下的手段发现和定位程序中的性能问题：
   - 从当前系统中收集性能数据；
   - 从系统到源代码不同的层次上，以不同的互动形式来组织和展示数据；
