@@ -23,6 +23,11 @@ jobs:
           number: ${{ github.event.issue.number }}
           actor: ${{ github.actor }}
           nohead: ${{ contains(github.event.issue.labels.*.name, 'nohead') }}
+      - name: Commit and Push Changes
+        id: commit-and-push
+        run: |
+          echo "commit_hash=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
+
   update_sidebar:
     uses: ./.github/workflows/update_sidebar.yml
     needs: issue2md
