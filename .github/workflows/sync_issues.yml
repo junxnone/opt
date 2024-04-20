@@ -31,5 +31,11 @@ jobs:
           echo "commit_hash=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
   update_sidebar:
     needs: issue2md
-    uses: ./.github/workflows/update_sidebar.yml
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.issue2md.outputs.commit_hash }}
+      - uses: ./.github/workflows/update_sidebar.yml
+
 
