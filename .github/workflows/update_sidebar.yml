@@ -11,6 +11,9 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.issue2md.outputs.commit_hash }}
       - uses: junxnone/autosidebar@main
         with:
           push_branch: "main"
