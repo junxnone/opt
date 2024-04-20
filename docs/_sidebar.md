@@ -31,6 +31,7 @@
   - [Intel Advisor](/0008_Tools_Advisor)
   - [Linux 程序性能分析工具](/0005_Tools_Linux)
   - [Intel Vtune](/0006_Tools_Vtune)
+    - [Vtune Anomaly Detection](/0061_Tools_Vtune_AD)
     - [Vtune CommandLine Mode](/0007_Tools_Vtune_CommandLine)
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Hardware Event-based Sampling Collection](/0053_Tools_Vtune_HWE)
@@ -58,4 +59,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0409560421</sub></kbd>
+<kbd><sub>@0411430421</sub></kbd>

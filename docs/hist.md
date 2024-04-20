@@ -1,12 +1,13 @@
 # Wiki History
 
 - 2024-04-20        [Tools Vtune MA](/0059_Tools_Vtune_MA)
-- 2024-04-20        [Tools Vtune Windows](/0050_Tools_Vtune_Windows)
+- 2024-04-20        [Tools Vtune Hotspots](/0057_Tools_Vtune_Hotspots)
 - 2024-04-20        [Tools Vtune UMS](/0052_Tools_Vtune_UMS)
 - 2024-04-20        [Tools Vtune Linux Remote](/0055_Tools_Vtune_Linux_Remote)
+- 2024-04-20        [Tools Vtune AD](/0061_Tools_Vtune_AD)
 - 2024-04-20        [Tools Vtune Metrics](/0056_Tools_Vtune_Metrics)
+- 2024-04-20        [Tools Vtune Windows](/0050_Tools_Vtune_Windows)
 - 2024-04-20        [Tools Vtune PerformanceSnapshot](/0051_Tools_Vtune_PerformanceSnapshot)
-- 2024-04-20        [Tools Vtune Hotspots](/0057_Tools_Vtune_Hotspots)
 - 2024-04-20        [Tools Vtune HWE](/0053_Tools_Vtune_HWE)
 - 2024-04-20        [Tools Vtune Microarchitecture](/0058_Tools_Vtune_Microarchitecture)
 - 2024-04-20        [Tools Vtune Linux](/0054_Tools_Vtune_Linux)
