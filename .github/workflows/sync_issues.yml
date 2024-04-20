@@ -5,6 +5,8 @@ on:
 jobs:
   issue2md:
     runs-on: ubuntu-latest
+    outputs:
+      commit_hash: ${{ steps.commit-and-push.outputs.commit_hash }}
     steps:
       - uses: actions/checkout@v4
       - name: print github event action
@@ -27,8 +29,7 @@ jobs:
         id: commit-and-push
         run: |
           echo "commit_hash=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
-
   update_sidebar:
-    uses: ./.github/workflows/update_sidebar.yml
     needs: issue2md
+    uses: ./.github/workflows/update_sidebar.yml
 
