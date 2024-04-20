@@ -34,8 +34,10 @@
     - [Vtune CommandLine Mode](/0007_Tools_Vtune_CommandLine)
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Hardware Event-based Sampling Collection](/0053_Tools_Vtune_HWE)
+    - [Vtune Hotspots](/0057_Tools_Vtune_Hotspots)
     - [Vtune Linux](/0054_Tools_Vtune_Linux)
       - [Vtune on Remote Linux](/0055_Tools_Vtune_Linux_Remote)
+    - [Vtune Metrics](/0056_Tools_Vtune_Metrics)
     - [Vtune Performance Snapshot](/0051_Tools_Vtune_PerformanceSnapshot)
     - [User-Mode Sampling and Tracing Colllection](/0052_Tools_Vtune_UMS)
     - [Vtune Windows](/0050_Tools_Vtune_Windows)
@@ -53,4 +55,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0301530421</sub></kbd>
+<kbd><sub>@0333450421</sub></kbd>
