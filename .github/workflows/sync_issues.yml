@@ -36,6 +36,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ needs.issue2md.outputs.commit_hash }}
-      - uses: ./.github/workflows/update_sidebar.yml
+      - uses: junxnone/autosidebar@main
+        with:
+          push_branch: "main"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          actor: ${{ github.actor }}
+          docs_path: "docs"
+          root_node: "opt"
 
 
