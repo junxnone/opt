@@ -37,7 +37,10 @@
     - [Vtune Hotspots](/0057_Tools_Vtune_Hotspots)
     - [Vtune Linux](/0054_Tools_Vtune_Linux)
       - [Vtune on Remote Linux](/0055_Tools_Vtune_Linux_Remote)
+    - [Vtune Memory Access](/0059_Tools_Vtune_MA)
+    - [Vtune Memory Consumption](/0060_Tools_Vtune_MC)
     - [Vtune Metrics](/0056_Tools_Vtune_Metrics)
+    - [Vtune Microarchitecture](/0058_Tools_Vtune_Microarchitecture)
     - [Vtune Performance Snapshot](/0051_Tools_Vtune_PerformanceSnapshot)
     - [User-Mode Sampling and Tracing Colllection](/0052_Tools_Vtune_UMS)
     - [Vtune Windows](/0050_Tools_Vtune_Windows)
@@ -55,4 +58,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0333450421</sub></kbd>
+<kbd><sub>@0409560421</sub></kbd>
