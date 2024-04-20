@@ -34,6 +34,7 @@
     - [Vtune CommandLine Mode](/0007_Tools_Vtune_CommandLine)
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Vtune Performance Snapshot](/0051_Tools_Vtune_PerformanceSnapshot)
+    - [User-Mode Sampling and Tracing Colllection](/0052_Tools_Vtune_UMS)
     - [Vtune Windows](/0050_Tools_Vtune_Windows)
     - [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)
 - [GPU 性能优化](/0046_GPU)
@@ -49,4 +50,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0126000421</sub></kbd>
+<kbd><sub>@0154070421</sub></kbd>
