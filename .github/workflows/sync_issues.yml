@@ -33,15 +33,13 @@ jobs:
     needs: issue2md
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ needs.issue2md.outputs.commit_hash }}
-      - uses: junxnone/autosidebar@main
+      - uses: junxnone/autosidebar@job2lastcommit
         with:
           push_branch: "main"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           actor: ${{ github.actor }}
           docs_path: "docs"
           root_node: "opt"
+          ref: ${{ needs.issue2md.outputs.commit_hash }}
 
 
