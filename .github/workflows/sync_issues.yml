@@ -33,7 +33,7 @@ jobs:
     needs: issue2md
     runs-on: ubuntu-latest
     steps:
-      - uses: junxnone/autosidebar@job2lastcommit
+      - uses: junxnone/autosidebar@main
         with:
           push_branch: "main"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
