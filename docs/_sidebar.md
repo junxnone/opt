@@ -32,6 +32,7 @@
   - [Linux 程序性能分析工具](/0005_Tools_Linux)
   - [Intel Vtune](/0006_Tools_Vtune)
     - [Vtune Anomaly Detection](/0061_Tools_Vtune_AD)
+    - [Vtune Analysis Type](/0062_Tools_Vtune_AT)
     - [Vtune CommandLine Mode](/0007_Tools_Vtune_CommandLine)
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Hardware Event-based Sampling Collection](/0053_Tools_Vtune_HWE)
@@ -59,4 +60,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1057330421</sub></kbd>
+<kbd><sub>@1101480421</sub></kbd>
