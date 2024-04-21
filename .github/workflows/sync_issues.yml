@@ -6,7 +6,7 @@ jobs:
   issue2md:
     runs-on: ubuntu-latest
     outputs:
-      commit_hash: ${{ steps.commit-and-push.outputs.commit_hash }}
+      commit_hash: ${{ steps.backup-last-commit.outputs.commit_hash }}
     steps:
       - uses: actions/checkout@v4
       - name: print github event action
@@ -25,8 +25,8 @@ jobs:
           number: ${{ github.event.issue.number }}
           actor: ${{ github.actor }}
           nohead: ${{ contains(github.event.issue.labels.*.name, 'nohead') }}
-      - name: Commit and Push Changes
-        id: commit-and-push
+      - name: Backup last commit
+        id: backup-last-commit
         run: |
           echo "commit_hash=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
   update_sidebar:
