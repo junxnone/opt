@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           actor: ${{ github.actor }}
           docs_path: "docs"
-          root_node: "opt"
+          root_node: ${{ github.event.repository.name }}
