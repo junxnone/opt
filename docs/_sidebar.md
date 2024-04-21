@@ -33,10 +33,10 @@
   - [Intel Vtune](/0006_Tools_Vtune)
     - [Vtune Anomaly Detection](/0061_Tools_Vtune_AD)
     - [Vtune Analysis Type](/0062_Tools_Vtune_AT)
+      - [Vtune Hotspots](/0057_Tools_Vtune_AT_Hotspots)
     - [Vtune CommandLine Mode](/0007_Tools_Vtune_CommandLine)
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Hardware Event-based Sampling Collection](/0053_Tools_Vtune_HWE)
-    - [Vtune Hotspots](/0057_Tools_Vtune_Hotspots)
     - [Vtune Linux](/0054_Tools_Vtune_Linux)
       - [Vtune on Remote Linux](/0055_Tools_Vtune_Linux_Remote)
     - [Vtune Memory Access](/0059_Tools_Vtune_MA)
@@ -60,4 +60,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1101480421</sub></kbd>
+<kbd><sub>@1107180421</sub></kbd>
