@@ -29,7 +29,6 @@ jobs:
         id: commit-and-push
         run: |
           echo "commit_hash=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
-          echo ${{ github.event.repository.name }}
   update_sidebar:
     needs: issue2md
     runs-on: ubuntu-latest
@@ -40,7 +39,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           actor: ${{ github.actor }}
           docs_path: "docs"
-          root_node: "opt"
+          root_node: ${{ github.event.repository.name }}
           ref: ${{ needs.issue2md.outputs.commit_hash }}
 
 
