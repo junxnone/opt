@@ -2,7 +2,7 @@
 Title | Tools Vtune Hotspots
 -- | --
 Created @ | `2024-04-20T19:17:10Z`
-Updated @| `2024-04-21T02:44:29Z`
+Updated @| `2024-04-21T02:51:38Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/57)
 
@@ -15,12 +15,12 @@ Edit @| [here](https://github.com/junxnone/opt/issues/57)
 
 ## Tab
 
-- Summary
-- Bottom-up
-- Caller/Callee
-- Top-down Tree
-- Flame Graph 
-- Platform
+- **Summary**: 统计信息
+- **Bottom-up**: 可以根据 Grouping 信息来查看堆栈
+- **Caller/Callee** 调用堆栈
+- **Top-down Tree**
+- **Flame Graph** 
+- **Platform**
 
 ### Summary
 - **Elapsed Time**: 消耗时间
