@@ -34,6 +34,7 @@
     - [Vtune Analysis Type](/0062_Tools_Vtune_AT)
       - [Vtune Anomaly Detection](/0061_Tools_Vtune_AT_AD)
       - [Vtune Hotspots](/0057_Tools_Vtune_AT_Hotspots)
+      - [Vtune Memory Access](/0059_Tools_Vtune_AT_MA)
       - [Vtune Memory Consumption](/0060_Tools_Vtune_AT_MC)
       - [Vtune Microarchitecture](/0058_Tools_Vtune_AT_Microarchitecture)
       - [Vtune Performance Snapshot](/0051_Tools_Vtune_AT_PS)
@@ -42,7 +43,6 @@
     - [Hardware Event-based Sampling Collection](/0053_Tools_Vtune_HWE)
     - [Vtune Linux](/0054_Tools_Vtune_Linux)
       - [Vtune on Remote Linux](/0055_Tools_Vtune_Linux_Remote)
-    - [Vtune Memory Access](/0059_Tools_Vtune_MA)
     - [Vtune Metrics](/0056_Tools_Vtune_Metrics)
     - [User-Mode Sampling and Tracing Colllection](/0052_Tools_Vtune_UMS)
     - [Vtune Windows](/0050_Tools_Vtune_Windows)
@@ -60,4 +60,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0911460422</sub></kbd>
+<kbd><sub>@0912150422</sub></kbd>
