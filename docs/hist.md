@@ -1,61 +1,61 @@
 # Wiki History
 
-- 2024-04-21        [Tools Vtune AT](/0062_Tools_Vtune_AT)
-- 2024-04-20        [Tools Vtune Windows](/0050_Tools_Vtune_Windows)
-- 2024-04-20        [Tools Vtune AT PS](/0051_Tools_Vtune_AT_PS)
-- 2024-04-20        [Tools Vtune AT Microarchitecture](/0058_Tools_Vtune_AT_Microarchitecture)
-- 2024-04-20        [Tools Vtune Linux Remote](/0055_Tools_Vtune_Linux_Remote)
-- 2024-04-20        [Tools Vtune AT AD](/0061_Tools_Vtune_AT_AD)
-- 2024-04-20        [Tools Vtune AT Hotspots](/0057_Tools_Vtune_AT_Hotspots)
-- 2024-04-20        [Tools Vtune Metrics](/0056_Tools_Vtune_Metrics)
-- 2024-04-20        [Tools Vtune UMS](/0052_Tools_Vtune_UMS)
-- 2024-04-20        [Tools Vtune AT MA](/0059_Tools_Vtune_AT_MA)
-- 2024-04-20        [Tools Vtune HWE](/0053_Tools_Vtune_HWE)
-- 2024-04-20        [Tools Vtune AT MC](/0060_Tools_Vtune_AT_MC)
-- 2024-04-20        [Tools Vtune Linux](/0054_Tools_Vtune_Linux)
-- 2024-01-15        [PARA SYCL ESIMD](/0011_PARA_SYCL_ESIMD)
-- 2023-09-01        [PARA Theory](/0012_PARA_Theory)
-- 2023-09-01        [Tools Linux](/0005_Tools_Linux)
-- 2023-07-26        [PARA SIMD](/0013_PARA_SIMD)
-- 2023-07-24        [LIB Highway](/0045_LIB_Highway)
-- 2023-07-20        [Tools Vtune DebugAPI](/0010_Tools_Vtune_DebugAPI)
-- 2023-06-17        [Tools](/0004_Tools)
-- 2023-05-25        [Tools Vtune iGPU](/0009_Tools_Vtune_iGPU)
-- 2023-03-10        [PARA Patterns](/0014_PARA_Patterns)
-- 2023-03-09        [GPU](/0046_GPU)
-- 2023-03-07        [PARA DPCPP Arch](/0015_PARA_DPCPP_Arch)
-- 2023-03-07        [Tools Advisor](/0008_Tools_Advisor)
-- 2022-12-22        [LIB](/0044_LIB)
-- 2022-09-09        [Tools Vtune CommandLine](/0007_Tools_Vtune_CommandLine)
-- 2022-04-27        [OPT TMA](/0047_OPT_TMA)
-- 2022-04-27        [Mem CacheLine](/0036_Mem_CacheLine)
-- 2022-04-25        [OPT](/0003_OPT)
-- 2022-01-18        [PARA DPCPP DEBUG](/0016_PARA_DPCPP_DEBUG)
-- 2021-12-27        [LIB OneAPI oneDPL](/0043_LIB_OneAPI_oneDPL)
-- 2021-12-14        [Loop](/0049_Loop)
-- 2021-12-13        [PARA SYCL Projects](/0017_PARA_SYCL_Projects)
-- 2021-12-12        [LIB OneAPI LevelZero](/0042_LIB_OneAPI_LevelZero)
-- 2021-11-19        [PARA NDRange](/0018_PARA_NDRange)
-- 2021-11-18        [PARA OpenMP Task](/0019_PARA_OpenMP_Task)
-- 2021-11-16        [PARA OpenMP Directives](/0020_PARA_OpenMP_Directives)
-- 2021-11-15        [Mem](/0037_Mem)
-- 2021-11-05        [PARA OpenMP UseCase](/0022_PARA_OpenMP_UseCase)
-- 2021-11-05        [PARA](/0023_PARA)
-- 2021-11-05        [PARA OpenMP VAR](/0021_PARA_OpenMP_VAR)
-- 2021-11-03        [PARA OpenMP SIMD](/0025_PARA_OpenMP_SIMD)
-- 2021-11-03        [PARA OpenMP Offload](/0024_PARA_OpenMP_Offload)
-- 2021-10-28        [PARA DPCPP](/0026_PARA_DPCPP)
-- 2021-08-09        [PARA OpenMP BindCore](/0027_PARA_OpenMP_BindCore)
-- 2021-08-07        [PARA OpenMP API](/0028_PARA_OpenMP_API)
-- 2021-08-03        [LIB OneAPI IntelMKL](/0041_LIB_OneAPI_IntelMKL)
-- 2021-07-29        [PARA SYCL](/0031_PARA_SYCL)
-- 2021-07-29        [PARA SYCL Concepts](/0029_PARA_SYCL_Concepts)
-- 2021-07-29        [PARA SYCL SPIR](/0030_PARA_SYCL_SPIR)
-- 2021-07-26        [LIB OneAPI iGPU](/0040_LIB_OneAPI_iGPU)
-- 2021-06-23        [LIB OneAPI](/0039_LIB_OneAPI)
-- 2021-05-20        [PARA OpenMP](/0032_PARA_OpenMP)
-- 2021-04-21        [LIB IPP](/0038_LIB_IPP)
-- 2021-01-25        [PARA OpenCL](/0033_PARA_OpenCL)
-- 2020-03-18        [PARA OpenCL Install](/0034_PARA_OpenCL_Install)
-- 2019-01-31        [PARA OpenMPI](/0035_PARA_OpenMPI)
-- 2018-09-28        [Tools Vtune](/0006_Tools_Vtune)
+- 2024-04-21&nbsp;&nbsp; [Vtune Analysis Type](/0062_Tools_Vtune_AT)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT
+- 2024-04-20&nbsp;&nbsp; [Vtune Windows](/0050_Tools_Vtune_Windows)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Windows
+- 2024-04-20&nbsp;&nbsp; [Vtune Performance Snapshot](/0051_Tools_Vtune_AT_PS)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:PS
+- 2024-04-20&nbsp;&nbsp; [Vtune Microarchitecture](/0058_Tools_Vtune_AT_Microarchitecture)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:Microarchitecture
+- 2024-04-20&nbsp;&nbsp; [Vtune on Remote Linux](/0055_Tools_Vtune_Linux_Remote)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Linux :bookmark:Remote
+- 2024-04-20&nbsp;&nbsp; [Vtune Anomaly Detection](/0061_Tools_Vtune_AT_AD)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:AD
+- 2024-04-20&nbsp;&nbsp; [Vtune Hotspots](/0057_Tools_Vtune_AT_Hotspots)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:Hotspots
+- 2024-04-20&nbsp;&nbsp; [Vtune Metrics](/0056_Tools_Vtune_Metrics)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Metrics
+- 2024-04-20&nbsp;&nbsp; [User-Mode Sampling and Tracing Colllection](/0052_Tools_Vtune_UMS)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:UMS
+- 2024-04-20&nbsp;&nbsp; [Vtune Memory Access](/0059_Tools_Vtune_AT_MA)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:MA
+- 2024-04-20&nbsp;&nbsp; [Hardware Event-based Sampling Collection](/0053_Tools_Vtune_HWE)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:HWE
+- 2024-04-20&nbsp;&nbsp; [Vtune Memory Consumption](/0060_Tools_Vtune_AT_MC)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:MC
+- 2024-04-20&nbsp;&nbsp; [Vtune Linux](/0054_Tools_Vtune_Linux)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Linux
+- 2024-01-15&nbsp;&nbsp; [ESIMD](/0011_PARA_SYCL_ESIMD)&nbsp;&nbsp; :bookmark:PARA :bookmark:SYCL :bookmark:ESIMD
+- 2023-09-01&nbsp;&nbsp; [并行计算理论](/0012_PARA_Theory)&nbsp;&nbsp; :bookmark:PARA :bookmark:Theory
+- 2023-09-01&nbsp;&nbsp; [Linux 程序性能分析工具](/0005_Tools_Linux)&nbsp;&nbsp; :bookmark:Tools :bookmark:Linux
+- 2023-07-26&nbsp;&nbsp; [SIMD](/0013_PARA_SIMD)&nbsp;&nbsp; :bookmark:PARA :bookmark:SIMD
+- 2023-07-24&nbsp;&nbsp; [Highway](/0045_LIB_Highway)&nbsp;&nbsp; :bookmark:LIB :bookmark:Highway
+- 2023-07-20&nbsp;&nbsp; [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:DebugAPI
+- 2023-06-17&nbsp;&nbsp; [性能优化工具](/0004_Tools)&nbsp;&nbsp; :bookmark:Tools
+- 2023-05-25&nbsp;&nbsp; [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:iGPU
+- 2023-03-10&nbsp;&nbsp; [Parallel Patterns](/0014_PARA_Patterns)&nbsp;&nbsp; :bookmark:PARA :bookmark:Patterns
+- 2023-03-09&nbsp;&nbsp; [GPU 性能优化](/0046_GPU)&nbsp;&nbsp; :bookmark:GPU
+- 2023-03-07&nbsp;&nbsp; [架构及相关概念](/0015_PARA_DPCPP_Arch)&nbsp;&nbsp; :bookmark:PARA :bookmark:DPCPP :bookmark:Arch
+- 2023-03-07&nbsp;&nbsp; [Intel Advisor](/0008_Tools_Advisor)&nbsp;&nbsp; :bookmark:Tools :bookmark:Advisor
+- 2022-12-22&nbsp;&nbsp; [性能优化库](/0044_LIB)&nbsp;&nbsp; :bookmark:LIB
+- 2022-09-09&nbsp;&nbsp; [Vtune CommandLine Mode](/0007_Tools_Vtune_CommandLine)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:CommandLine
+- 2022-04-27&nbsp;&nbsp; [TMA](/0047_OPT_TMA)&nbsp;&nbsp; :bookmark:OPT :bookmark:TMA
+- 2022-04-27&nbsp;&nbsp; [Memory Cacheline](/0036_Mem_CacheLine)&nbsp;&nbsp; :bookmark:Mem :bookmark:CacheLine
+- 2022-04-25&nbsp;&nbsp; [性能优化](/0003_OPT)&nbsp;&nbsp; :bookmark:OPT
+- 2022-01-18&nbsp;&nbsp; [DPCPP Debug](/0016_PARA_DPCPP_DEBUG)&nbsp;&nbsp; :bookmark:PARA :bookmark:DPCPP :bookmark:DEBUG
+- 2021-12-27&nbsp;&nbsp; [Intel OneAPI oneDPL](/0043_LIB_OneAPI_oneDPL)&nbsp;&nbsp; :bookmark:LIB :bookmark:OneAPI :bookmark:oneDPL
+- 2021-12-14&nbsp;&nbsp; [Loop](/0049_Loop)&nbsp;&nbsp; :bookmark:Loop
+- 2021-12-13&nbsp;&nbsp; [SYCL Projects](/0017_PARA_SYCL_Projects)&nbsp;&nbsp; :bookmark:PARA :bookmark:SYCL :bookmark:Projects
+- 2021-12-12&nbsp;&nbsp; [Level Zero](/0042_LIB_OneAPI_LevelZero)&nbsp;&nbsp; :bookmark:LIB :bookmark:OneAPI :bookmark:LevelZero
+- 2021-11-19&nbsp;&nbsp; [NDRange](/0018_PARA_NDRange)&nbsp;&nbsp; :bookmark:PARA :bookmark:NDRange
+- 2021-11-18&nbsp;&nbsp; [OpenMP Task](/0019_PARA_OpenMP_Task)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP :bookmark:Task
+- 2021-11-16&nbsp;&nbsp; [OpenMP Directives](/0020_PARA_OpenMP_Directives)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP :bookmark:Directives
+- 2021-11-15&nbsp;&nbsp; [内存优化](/0037_Mem)&nbsp;&nbsp; :bookmark:Mem
+- 2021-11-05&nbsp;&nbsp; [OpenMP UseCase](/0022_PARA_OpenMP_UseCase)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP :bookmark:UseCase
+- 2021-11-05&nbsp;&nbsp; [并行计算](/0023_PARA)&nbsp;&nbsp; :bookmark:PARA
+- 2021-11-05&nbsp;&nbsp; [OpenMP 变量](/0021_PARA_OpenMP_VAR)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP :bookmark:VAR
+- 2021-11-03&nbsp;&nbsp; [OpenMP SIMD](/0025_PARA_OpenMP_SIMD)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP :bookmark:SIMD
+- 2021-11-03&nbsp;&nbsp; [OpenMP Offload](/0024_PARA_OpenMP_Offload)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP :bookmark:Offload
+- 2021-10-28&nbsp;&nbsp; [DPC++](/0026_PARA_DPCPP)&nbsp;&nbsp; :bookmark:PARA :bookmark:DPCPP
+- 2021-08-09&nbsp;&nbsp; [OpenMP 绑核](/0027_PARA_OpenMP_BindCore)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP :bookmark:BindCore
+- 2021-08-07&nbsp;&nbsp; [OpenMP API](/0028_PARA_OpenMP_API)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP :bookmark:API
+- 2021-08-03&nbsp;&nbsp; [IntelMKL](/0041_LIB_OneAPI_IntelMKL)&nbsp;&nbsp; :bookmark:LIB :bookmark:OneAPI :bookmark:IntelMKL
+- 2021-07-29&nbsp;&nbsp; [SYCL](/0031_PARA_SYCL)&nbsp;&nbsp; :bookmark:PARA :bookmark:SYCL
+- 2021-07-29&nbsp;&nbsp; [SYCL Concepts](/0029_PARA_SYCL_Concepts)&nbsp;&nbsp; :bookmark:PARA :bookmark:SYCL :bookmark:Concepts
+- 2021-07-29&nbsp;&nbsp; [SYCL SPIR](/0030_PARA_SYCL_SPIR)&nbsp;&nbsp; :bookmark:PARA :bookmark:SYCL :bookmark:SPIR
+- 2021-07-26&nbsp;&nbsp; [OneAPI iGPU](/0040_LIB_OneAPI_iGPU)&nbsp;&nbsp; :bookmark:LIB :bookmark:OneAPI :bookmark:iGPU
+- 2021-06-23&nbsp;&nbsp; [OneAPI](/0039_LIB_OneAPI)&nbsp;&nbsp; :bookmark:LIB :bookmark:OneAPI
+- 2021-05-20&nbsp;&nbsp; [OpenMP](/0032_PARA_OpenMP)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMP
+- 2021-04-21&nbsp;&nbsp; [IPP Intel Integrated Performance Primitives](/0038_LIB_IPP)&nbsp;&nbsp; :bookmark:LIB :bookmark:IPP
+- 2021-01-25&nbsp;&nbsp; [OpenCL](/0033_PARA_OpenCL)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenCL
+- 2020-03-18&nbsp;&nbsp; [OpenCL Install](/0034_PARA_OpenCL_Install)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenCL :bookmark:Install
+- 2019-01-31&nbsp;&nbsp; [OpenMPI](/0035_PARA_OpenMPI)&nbsp;&nbsp; :bookmark:PARA :bookmark:OpenMPI
+- 2018-09-28&nbsp;&nbsp; [Intel Vtune](/0006_Tools_Vtune)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune
