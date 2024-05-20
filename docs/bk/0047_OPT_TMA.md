@@ -3,7 +3,7 @@
 | Title     | OPT TMA                                           |
 | --------- | ------------------------------------------------- |
 | Created @ | `2022-04-27T01:48:41Z`                            |
-| Updated @ | `2024-04-07T03:17:39Z`                            |
+| Updated @ | `2024-05-20T01:14:04Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/opt/issues/47) |
 
@@ -12,15 +12,23 @@
 # TMA
 
   - TMA - `Top-Down Microarchitecture Analysis`
+
+## 层次结构/Hierarchy
+
+  - 利用 `TMA` 结果进行分析的时候，我们只需要关注第一层级中比重最高的分支，然后逐级向下去追溯最关键的性能瓶颈便可.
+      - 例如 如果 `Backend Bound` 占用较多，则向下看 `Core Bound` 和 `Memory Bound`
+        哪个占用的更多，如果是 `Memory Bound`, 则是因为 `CPU` 不能够及时的从 `Memory`
+        获取所需的数据导致的，继续查看是 Cache/DRAM/... 哪个的问题
+
+![image](media/1d4cc5b87c1cac822fd2edcddc8ebc30ed3260ea.png)
+
+### 第一层: CPU 状态分类
+
   - **Retiring**: 正常执行的 μOps 比例
   - **Bad Speculation**: Cancelled ( `Mispredicted branches`/`Incorrect
     data speculation`)
   - **Front-End Bound**: front-end 导致的 pipeline slots 不能被充分使用
   - **Back-End Bound**: back-end 导致的 pipeline slots 不能被充分使用
-
-## 层次结构/Hierarchy
-
-![image](media/1d4cc5b87c1cac822fd2edcddc8ebc30ed3260ea.png)
 
 ## 相关名词
 
