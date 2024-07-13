@@ -32,7 +32,7 @@
 - 2022-04-25&nbsp;&nbsp; [性能优化](/0003_OPT)&nbsp;&nbsp; :bookmark:OPT
 - 2022-01-18&nbsp;&nbsp; [DPCPP Debug](/0016_PARA_DPCPP_DEBUG)&nbsp;&nbsp; :bookmark:PARA :bookmark:DPCPP :bookmark:DEBUG
 - 2021-12-27&nbsp;&nbsp; [Intel OneAPI oneDPL](/0043_LIB_OneAPI_oneDPL)&nbsp;&nbsp; :bookmark:LIB :bookmark:OneAPI :bookmark:oneDPL
-- 2021-12-14&nbsp;&nbsp; [Loop](/0049_Loop)&nbsp;&nbsp; :bookmark:Loop
+- 2021-12-14&nbsp;&nbsp; [Loop Optimization](/0049_Loop)&nbsp;&nbsp; :bookmark:Loop
 - 2021-12-13&nbsp;&nbsp; [SYCL Projects](/0017_PARA_SYCL_Projects)&nbsp;&nbsp; :bookmark:PARA :bookmark:SYCL :bookmark:Projects
 - 2021-12-12&nbsp;&nbsp; [Level Zero](/0042_LIB_OneAPI_LevelZero)&nbsp;&nbsp; :bookmark:LIB :bookmark:OneAPI :bookmark:LevelZero
 - 2021-11-19&nbsp;&nbsp; [NDRange](/0018_PARA_NDRange)&nbsp;&nbsp; :bookmark:PARA :bookmark:NDRange

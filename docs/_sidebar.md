@@ -56,8 +56,8 @@
     - [Level Zero](/0042_LIB_OneAPI_LevelZero)
     - [OneAPI iGPU](/0040_LIB_OneAPI_iGPU)
     - [Intel OneAPI oneDPL](/0043_LIB_OneAPI_oneDPL)
-- [Loop](/0049_Loop)
+- [Loop Optimization](/0049_Loop)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1618350712</sub></kbd>
+<kbd><sub>@1316430713</sub></kbd>
