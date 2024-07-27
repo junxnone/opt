@@ -57,7 +57,8 @@
     - [OneAPI iGPU](/0040_LIB_OneAPI_iGPU)
     - [Intel OneAPI oneDPL](/0043_LIB_OneAPI_oneDPL)
 - [Loop Optimization](/0049_Loop)
+  - [循环合并](/0063_Loop_Fusion)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1616130727</sub></kbd>
+<kbd><sub>@2245310727</sub></kbd>

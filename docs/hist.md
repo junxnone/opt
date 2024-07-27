@@ -1,17 +1,18 @@
 # Wiki History
 
+- 2024-07-27&nbsp;&nbsp; [循环合并](/0063_Loop_Fusion)&nbsp;&nbsp; :bookmark:Loop :bookmark:Fusion
 - 2024-04-21&nbsp;&nbsp; [Vtune Analysis Type](/0062_Tools_Vtune_AT)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT
 - 2024-04-20&nbsp;&nbsp; [Vtune Windows](/0050_Tools_Vtune_Windows)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Windows
-- 2024-04-20&nbsp;&nbsp; [Vtune Memory Consumption](/0060_Tools_Vtune_AT_MC)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:MC
-- 2024-04-20&nbsp;&nbsp; [Vtune Hotspots](/0057_Tools_Vtune_AT_Hotspots)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:Hotspots
-- 2024-04-20&nbsp;&nbsp; [Vtune Memory Access](/0059_Tools_Vtune_AT_MA)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:MA
-- 2024-04-20&nbsp;&nbsp; [Vtune Linux](/0054_Tools_Vtune_Linux)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Linux
-- 2024-04-20&nbsp;&nbsp; [Vtune Anomaly Detection](/0061_Tools_Vtune_AT_AD)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:AD
-- 2024-04-20&nbsp;&nbsp; [Vtune on Remote Linux](/0055_Tools_Vtune_Linux_Remote)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Linux :bookmark:Remote
 - 2024-04-20&nbsp;&nbsp; [Vtune Microarchitecture](/0058_Tools_Vtune_AT_Microarchitecture)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:Microarchitecture
-- 2024-04-20&nbsp;&nbsp; [Vtune Metrics](/0056_Tools_Vtune_Metrics)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Metrics
-- 2024-04-20&nbsp;&nbsp; [Vtune Performance Snapshot](/0051_Tools_Vtune_AT_PS)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:PS
 - 2024-04-20&nbsp;&nbsp; [Hardware Event-based Sampling Collection](/0053_Tools_Vtune_HWE)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:HWE
+- 2024-04-20&nbsp;&nbsp; [Vtune Performance Snapshot](/0051_Tools_Vtune_AT_PS)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:PS
+- 2024-04-20&nbsp;&nbsp; [Vtune Metrics](/0056_Tools_Vtune_Metrics)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Metrics
+- 2024-04-20&nbsp;&nbsp; [Vtune on Remote Linux](/0055_Tools_Vtune_Linux_Remote)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Linux :bookmark:Remote
+- 2024-04-20&nbsp;&nbsp; [Vtune Anomaly Detection](/0061_Tools_Vtune_AT_AD)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:AD
+- 2024-04-20&nbsp;&nbsp; [Vtune Linux](/0054_Tools_Vtune_Linux)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:Linux
+- 2024-04-20&nbsp;&nbsp; [Vtune Memory Access](/0059_Tools_Vtune_AT_MA)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:MA
+- 2024-04-20&nbsp;&nbsp; [Vtune Hotspots](/0057_Tools_Vtune_AT_Hotspots)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:Hotspots
+- 2024-04-20&nbsp;&nbsp; [Vtune Memory Consumption](/0060_Tools_Vtune_AT_MC)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:AT :bookmark:MC
 - 2024-04-20&nbsp;&nbsp; [User-Mode Sampling and Tracing Colllection](/0052_Tools_Vtune_UMS)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:UMS
 - 2024-01-15&nbsp;&nbsp; [ESIMD](/0011_PARA_SYCL_ESIMD)&nbsp;&nbsp; :bookmark:PARA :bookmark:SYCL :bookmark:ESIMD
 - 2023-09-01&nbsp;&nbsp; [并行计算理论](/0012_PARA_Theory)&nbsp;&nbsp; :bookmark:PARA :bookmark:Theory
