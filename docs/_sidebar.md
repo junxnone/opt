@@ -47,6 +47,7 @@
     - [User-Mode Sampling and Tracing Colllection](/0052_Tools_Vtune_UMS)
     - [Vtune Windows](/0050_Tools_Vtune_Windows)
     - [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)
+    - [Debug pytorch with vtune](/0064_Tools_Vtune_pytorch)
 - [GPU 性能优化](/0046_GPU)
 - [性能优化库](/0044_LIB)
   - [Highway](/0045_LIB_Highway)
@@ -61,4 +62,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1647090226</sub></kbd>
+<kbd><sub>@1127080227</sub></kbd>
