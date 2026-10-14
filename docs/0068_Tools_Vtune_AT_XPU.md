@@ -2,7 +2,7 @@
 Title | Tools Vtune AT XPU
 -- | --
 Created @ | `2026-10-14T07:18:38Z`
-Updated @| `2026-10-14T07:18:38Z`
+Updated @| `2026-10-14T07:30:14Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/68)
 
@@ -37,7 +37,7 @@ Edit @| [here](https://github.com/junxnone/opt/issues/68)
 1. 先看整体 Host/Device 时间占比，判断瓶颈更偏向 CPU 端还是 XPU 端
 2. 若怀疑是 offload 调用本身开销大，开启 Trace computing programming APIs，细看 API 调用耗时
 3. 若需要定位发起 offload 调用的具体代码位置，开启 Collect host stacks
-4. 确认是 XPU-bound 后，进一步用 GPU Hotspots 分析类型定位 Device 端具体热点
+4. 确认是 XPU-bound 后，进一步用 [GPU Hotspots](/0069_Tools_Vtune_AT_GPUHotspots) 定位 Device 端具体热点
 
 ## CLI 示例
 
@@ -48,4 +48,5 @@ vtune -collect xpu-offload -- ./your_app
 ## Reference
 - [XPU Offload Analysis (Preview)](https://www.intel.com/content/www/us/en/docs/vtune-profiler/user-guide/2025-4/xpu-offload-analysis.html)
 - [Intel® VTune™ Profiler Release Notes and New Features](https://www.intel.com/content/www/us/en/developer/articles/release-notes/vtune-profiler/current.html)
+
 
