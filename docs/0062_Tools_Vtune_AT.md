@@ -2,7 +2,7 @@
 Title | Tools Vtune AT
 -- | --
 Created @ | `2024-04-21T03:01:03Z`
-Updated @| `2026-10-14T07:30:19Z`
+Updated @| `2026-10-14T08:06:32Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/62)
 
@@ -18,7 +18,7 @@ VTune Profiler 把众多分析能力组织成若干 **Analysis Group**，每个 
 ### Algorithm（算法/热点类）
 - [Hotspots](/0057_Tools_Vtune_AT_Hotspots)：定位最耗时的函数/模块，是最常用的入门分析
 - [Anomaly Detection](/0061_Tools_Vtune_AT_AD)（预览特性）：基于硬件采样自动发现异常的性能模式，无需预设基线
-- [Memory Consumption](/0060_Tools_Vtune_AT_MC)：按时间线跟踪进程的内存占用与分配调用栈，定位内存增长/泄漏（**仅支持 Linux**，不支持 Windows/Android）
+- [Memory Consumption](/0060_Tools_Vtune_AT_MC)：按时间线跟踪进程的内存占用与分配调用栈，定位内存增长/泄漏（**原生目标仅支持 Linux**；若目标是 Python 程序则 Windows/Linux 均可）
 
 ### Microarchitecture（微架构类）
 - [Microarchitecture Exploration](/0058_Tools_Vtune_AT_Microarchitecture)：基于 [TMA（Top-Down Microarchitecture Analysis）](/0047_OPT_TMA) 方法论，把 CPU 瓶颈归类到 Retiring / Bad Speculation / Front-End Bound / Back-End Bound
@@ -72,4 +72,5 @@ VTune Profiler 把众多分析能力组织成若干 **Analysis Group**，每个 
 ## Reference
 - [Intel® VTune™ Profiler User Guide - Analyze Performance](https://www.intel.com/content/www/us/en/docs/vtune-profiler/user-guide/2026-1/overview.html)
 - [Intel® VTune™ Profiler Release Notes and New Features](https://www.intel.com/content/www/us/en/developer/articles/release-notes/vtune-profiler/current.html)
+
 

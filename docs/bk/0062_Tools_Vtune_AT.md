@@ -3,7 +3,7 @@
 | Title     | Tools Vtune AT                                    |
 | --------- | ------------------------------------------------- |
 | Created @ | `2024-04-21T03:01:03Z`                            |
-| Updated @ | `2026-10-14T07:30:19Z`                            |
+| Updated @ | `2026-10-14T08:06:32Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/opt/issues/62) |
 
@@ -24,8 +24,8 @@ Type**。本页作为索引，简述每类分析的用途、对应入口文档�
   - [Anomaly
     Detection](/0061_Tools_Vtune_AT_AD)（预览特性）：基于硬件采样自动发现异常的性能模式，无需预设基线
   - [Memory
-    Consumption](/0060_Tools_Vtune_AT_MC)：按时间线跟踪进程的内存占用与分配调用栈，定位内存增长/泄漏（**仅支持
-    Linux**，不支持 Windows/Android）
+    Consumption](/0060_Tools_Vtune_AT_MC)：按时间线跟踪进程的内存占用与分配调用栈，定位内存增长/泄漏（**原生目标仅支持
+    Linux**；若目标是 Python 程序则 Windows/Linux 均可）
 
 ### Microarchitecture（微架构类）
 
