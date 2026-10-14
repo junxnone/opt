@@ -2,7 +2,7 @@
 Title | Tools Vtune AT GPUHotspots
 -- | --
 Created @ | `2026-10-14T07:19:04Z`
-Updated @| `2026-10-14T07:19:04Z`
+Updated @| `2026-10-14T07:30:16Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/69)
 
@@ -10,7 +10,7 @@ Edit @| [here](https://github.com/junxnone/opt/issues/69)
 # Vtune GPU Hotspots
 
 - **原名 GPU Compute/Media Hotspots**（曾为预览特性），现已转正为正式分析类型，不再是 preview
-- **XPU Offload Analysis 之后的深入分析**：定位最耗时的 GPU kernel，基于 GPU 硬件指标刻画 GPU 使用情况，识别内存延迟或低效算法导致的性能问题，分析 GPU 指令频率。属于 Accelerators Analysis Group，详见 [Analysis Type 索引](/0062_Tools_Vtune_AT)
+- **[XPU Offload Analysis](/0068_Tools_Vtune_AT_XPU) 之后的深入分析**：定位最耗时的 GPU kernel，基于 GPU 硬件指标刻画 GPU 使用情况，识别内存延迟或低效算法导致的性能问题，分析 GPU 指令频率。属于 Accelerators Analysis Group，详见 [Analysis Type 索引](/0062_Tools_Vtune_AT)
 - 适合 SYCL / OpenCL / Intel Media SDK 等在 GPU 上做大量计算的场景
 
 ## 核心指标
@@ -38,4 +38,5 @@ vtune -collect gpu-hotspots -- ./your_app
 - [GPU Compute/Media Hotspots Analysis](https://www.intel.com/content/www/us/en/docs/vtune-profiler/user-guide/2024-2/gpu-compute-media-hotspots-analysis.html)
 - [GPU Metrics Reference](https://www.intel.com/content/www/us/en/docs/vtune-profiler/user-guide/2024-0/gpu-metrics-reference.html)
 - [Software Optimization for Intel® GPUs](https://www.intel.com/content/www/us/en/docs/vtune-profiler/cookbook/2025-4/software-optimization-for-intel-gpus.html)
+
 
