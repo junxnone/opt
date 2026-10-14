@@ -33,7 +33,9 @@
   - [Intel Vtune](/0006_Tools_Vtune)
     - [Vtune Analysis Type](/0062_Tools_Vtune_AT)
       - [Vtune Anomaly Detection](/0061_Tools_Vtune_AT_AD)
+      - [Vtune HPC Performance Characterization](/0066_Tools_Vtune_AT_HPC)
       - [Vtune Hotspots](/0057_Tools_Vtune_AT_Hotspots)
+      - [Vtune Input and Output](/0067_Tools_Vtune_AT_IO)
       - [Vtune Memory Access](/0059_Tools_Vtune_AT_MA)
       - [Vtune Memory Consumption](/0060_Tools_Vtune_AT_MC)
       - [Vtune Microarchitecture](/0058_Tools_Vtune_AT_Microarchitecture)
@@ -63,4 +65,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1518321014</sub></kbd>
+<kbd><sub>@1519111014</sub></kbd>
