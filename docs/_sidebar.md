@@ -33,6 +33,7 @@
   - [Intel Vtune](/0006_Tools_Vtune)
     - [Vtune Analysis Type](/0062_Tools_Vtune_AT)
       - [Vtune Anomaly Detection](/0061_Tools_Vtune_AT_AD)
+      - [Vtune GPU Hotspots](/0069_Tools_Vtune_AT_GPUHotspots)
       - [Vtune HPC Performance Characterization](/0066_Tools_Vtune_AT_HPC)
       - [Vtune Hotspots](/0057_Tools_Vtune_AT_Hotspots)
       - [Vtune Input and Output](/0067_Tools_Vtune_AT_IO)
@@ -41,6 +42,7 @@
       - [Vtune Microarchitecture](/0058_Tools_Vtune_AT_Microarchitecture)
       - [Vtune Performance Snapshot](/0051_Tools_Vtune_AT_PS)
       - [Vtune Threading](/0065_Tools_Vtune_AT_Threading)
+      - [Vtune XPU Offload Analysis](/0068_Tools_Vtune_AT_XPU)
     - [Vtune CommandLine Mode](/0007_Tools_Vtune_CommandLine)
     - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
     - [Hardware Event-based Sampling Collection](/0053_Tools_Vtune_HWE)
@@ -65,4 +67,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1519111014</sub></kbd>
+<kbd><sub>@1519551014</sub></kbd>
