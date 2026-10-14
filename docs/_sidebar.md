@@ -45,7 +45,7 @@
       - [Vtune Threading](/0065_Tools_Vtune_AT_Threading)
       - [Vtune XPU Offload Analysis](/0068_Tools_Vtune_AT_XPU)
     - [Vtune CommandLine Mode](/0007_Tools_Vtune_CommandLine)
-    - [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)
+    - [Vtune ITTJIT APIs](/0010_Tools_Vtune_DebugAPI)
     - [Hardware Event-based Sampling Collection](/0053_Tools_Vtune_HWE)
     - [Vtune Linux](/0054_Tools_Vtune_Linux)
       - [Vtune on Remote Linux](/0055_Tools_Vtune_Linux_Remote)
@@ -68,4 +68,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1607101014</sub></kbd>
+<kbd><sub>@1635441014</sub></kbd>

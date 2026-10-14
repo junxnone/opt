@@ -26,7 +26,7 @@
 - 2023-09-01&nbsp;&nbsp; [并行计算理论](/0012_PARA_Theory)&nbsp;&nbsp; :bookmark:PARA :bookmark:Theory
 - 2023-07-26&nbsp;&nbsp; [SIMD](/0013_PARA_SIMD)&nbsp;&nbsp; :bookmark:PARA :bookmark:SIMD
 - 2023-07-24&nbsp;&nbsp; [Highway](/0045_LIB_Highway)&nbsp;&nbsp; :bookmark:LIB :bookmark:Highway
-- 2023-07-20&nbsp;&nbsp; [Vtune Debug API](/0010_Tools_Vtune_DebugAPI)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:DebugAPI
+- 2023-07-20&nbsp;&nbsp; [Vtune ITTJIT APIs](/0010_Tools_Vtune_DebugAPI)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:DebugAPI
 - 2023-06-17&nbsp;&nbsp; [性能优化工具](/0004_Tools)&nbsp;&nbsp; :bookmark:Tools
 - 2023-05-25&nbsp;&nbsp; [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)&nbsp;&nbsp; :bookmark:Tools :bookmark:Vtune :bookmark:iGPU
 - 2023-03-10&nbsp;&nbsp; [Parallel Patterns](/0014_PARA_Patterns)&nbsp;&nbsp; :bookmark:PARA :bookmark:Patterns
