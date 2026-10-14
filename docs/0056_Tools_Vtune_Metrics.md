@@ -2,7 +2,7 @@
 Title | Tools Vtune Metrics
 -- | --
 Created @ | `2024-04-20T19:01:02Z`
-Updated @| `2026-10-14T09:17:35Z`
+Updated @| `2026-10-14T09:21:43Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/56)
 
@@ -29,7 +29,7 @@ Edit @| [here](https://github.com/junxnone/opt/issues/56)
 | IPC（Instructions Per Cycle） | 每周期平均退休指令数，现代超标量 CPU 理论上限约 4；HPC 场景 IPC≈1 通常可接受，具体阈值因应用而异 |
 | CPI（Clockticks per Instructions Retired） | IPC 的倒数视角，CPI<1 多为指令密集型，CPI>1 多提示存在停顿/访存瓶颈；应和基线对比而非看绝对值，向量化可能合理地推高 CPI，需结合退休指令数一起看 |
 
-### TMA 四大类（详细方法论见 [0047](0047_OPT_TMA)，VTune 里对应 Microarchitecture Exploration 的 Bottom-up 列）
+### TMA 四大类
 
 | Metric | 一句话含义 |
 |---|---|
@@ -48,7 +48,7 @@ Edit @| [here](https://github.com/junxnone/opt/issues/56)
 | False Sharing | 多线程访问同一 cache line 的不同数据引发的无效 cache 跳动 |
 | Spin Time / Wait Time | 线程空转等待（自旋锁、同步原语）/ 阻塞等待（如 I/O、锁）所占时间，多线程场景判断同步开销的关键指标 |
 
-### 访存层级细分（Memory Bound 的下钻指标，详见 [0059](0059_Tools_Vtune_AT_MA)）
+### 访存层级细分
 
 | Metric | 含义 |
 |---|---|
@@ -64,7 +64,7 @@ Edit @| [here](https://github.com/junxnone/opt/issues/56)
 | Local/Remote DRAM、Remote Cache（NUMA） | 本地内存访问 vs 跨 Socket 的远程内存/缓存访问，远程访问延迟显著更高，是多路服务器的常见瓶颈 |
 | Memory Bandwidth / Memory Latency | 分别代表受限于 DRAM 带宽上限 / 受限于 DRAM 访问延迟两种不同的访存瓶颈成因 |
 
-### 前端取指细分（Front-End Bound 的下钻指标）
+### 前端取指细分
 
 | Metric | 含义 |
 |---|---|
@@ -74,7 +74,7 @@ Edit @| [here](https://github.com/junxnone/opt/issues/56)
 | Length Changing Prefixes (LCP) | 变长指令前缀导致译码器重新计算指令长度的停顿 |
 | MS Switches / Microcode Sequencer | 切入微码时序器（走慢速译码路径）导致的开销，常由复杂/罕见指令触发 |
 
-### 乱序执行与端口（Core Bound 的下钻指标）
+### 乱序执行与端口
 
 | Metric | 含义 |
 |---|---|
@@ -93,7 +93,7 @@ Edit @| [here](https://github.com/junxnone/opt/issues/56)
 | Vector Instruction Set | 实际使用的向量指令集（SSE/AVX2/AVX-512 等） |
 | SP/DP GFLOPS、SP FLOPs per Cycle | 每秒/每周期完成的单精度/双精度浮点运算数，衡量向量代码生成与执行效率的直接指标 |
 
-### 多线程调度与同步（对应 Threading / Locks and Waits 分析）
+### 多线程调度与同步
 
 | Metric | 含义 |
 |---|---|
@@ -116,7 +116,7 @@ Edit @| [here](https://github.com/junxnone/opt/issues/56)
 | Remote / Local DRAM Ratio | 远程与本地内存访问的比例，越高说明 NUMA 亲和性越差 |
 | UPI Utilization Bound | 因 Socket 间互联（UPI）带宽接近上限而产生的停顿 |
 
-### HPC 网络 Fabric（HPC Performance Characterization 分析，用到 Intel Omni-Path Fabric 时适用）
+### HPC 网络 Fabric
 
 | Metric | 含义 |
 |---|---|
