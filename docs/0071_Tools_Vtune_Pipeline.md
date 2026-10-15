@@ -2,7 +2,7 @@
 Title | Tools Vtune Pipeline
 -- | --
 Created @ | `2026-10-15T06:04:20Z`
-Updated @| `2026-10-15T06:04:20Z`
+Updated @| `2026-10-15T06:50:35Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/opt/issues/71)
 
@@ -12,6 +12,9 @@ Edit @| [here](https://github.com/junxnone/opt/issues/71)
 本页用一张决策流程图，把 [Analysis Type 索引](0062_Tools_Vtune_AT) 里分散的各个分析类型串成一条可以实际走下去的排查路径：先怎么做、途中会碰到哪些现象、该往哪个分支走、最终定位到什么粒度的问题。图里只画流程分支，每类分析的指标原理不重复展开，均链接到对应详情页。
 
 ## 决策流程图
+
+[全屏查看](https://junxnone.github.io/jstools/mermaid/?md=https://raw.githubusercontent.com/junxnone/opt/refs/heads/main/docs/0071_Tools_Vtune_Pipeline.md)
+↓ mermaid code
 
 ```mermaid
 flowchart TD
