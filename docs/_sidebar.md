@@ -50,6 +50,7 @@
     - [Vtune Linux](/0054_Tools_Vtune_Linux)
       - [Vtune on Remote Linux](/0055_Tools_Vtune_Linux_Remote)
     - [Vtune Metrics](/0056_Tools_Vtune_Metrics)
+    - [Tools Vtune Pipeline](/0071_Tools_Vtune_Pipeline)
     - [User-Mode Sampling and Tracing Colllection](/0052_Tools_Vtune_UMS)
     - [Vtune Windows](/0050_Tools_Vtune_Windows)
     - [Intel Vtune iGPU Analysis](/0009_Tools_Vtune_iGPU)
@@ -68,4 +69,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0959111015</sub></kbd>
+<kbd><sub>@1405081015</sub></kbd>
