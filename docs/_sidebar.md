@@ -26,7 +26,9 @@
     - [SYCL SPIR](/0030_PARA_SYCL_SPIR)
   - [并行计算理论](/0012_PARA_Theory)
 - [内存优化](/0037_Mem)
+  - [Mem Bandwidth](/0075_Mem_Bandwidth)
   - [Memory Cacheline](/0036_Mem_CacheLine)
+  - [Mem NUMA](/0072_Mem_NUMA)
 - [性能优化工具](/0004_Tools)
   - [Intel Advisor](/0008_Tools_Advisor)
   - [Linux 程序性能分析工具](/0005_Tools_Linux)
@@ -69,4 +71,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1636041016</sub></kbd>
+<kbd><sub>@1639011016</sub></kbd>
