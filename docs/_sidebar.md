@@ -26,6 +26,7 @@
     - [SYCL SPIR](/0030_PARA_SYCL_SPIR)
   - [并行计算理论](/0012_PARA_Theory)
 - [内存优化](/0037_Mem)
+  - [Mem Allocator](/0074_Mem_Allocator)
   - [Mem Bandwidth](/0075_Mem_Bandwidth)
   - [Memory Cacheline](/0036_Mem_CacheLine)
   - [Mem NUMA](/0072_Mem_NUMA)
@@ -72,4 +73,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1643051016</sub></kbd>
+<kbd><sub>@1644221016</sub></kbd>
