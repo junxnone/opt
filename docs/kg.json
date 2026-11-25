@@ -271,6 +271,15 @@
       "childLinks": []
     },
     {
+      "id": "opt papers KernelFoundry",
+      "group": 2,
+      "title": "KernelFoundry",
+      "url": "https://junxnone.github.io/opt/#/0076_papers_KernelFoundry",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "opt Tools Vtune CommandLine",
       "group": 3,
       "title": "Vtune CommandLine Mode",

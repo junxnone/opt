@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-25&nbsp;&nbsp; [KernelFoundry](/0076_papers_KernelFoundry)&nbsp;&nbsp; :bookmark:papers :bookmark:KernelFoundry
 - 2026-10-16&nbsp;&nbsp; [Mem Bandwidth](/0075_Mem_Bandwidth)&nbsp;&nbsp; :bookmark:Mem :bookmark:Bandwidth
 - 2026-10-16&nbsp;&nbsp; [Mem Allocator](/0074_Mem_Allocator)&nbsp;&nbsp; :bookmark:Mem :bookmark:Allocator
 - 2026-10-16&nbsp;&nbsp; [Mem TLB](/0073_Mem_TLB)&nbsp;&nbsp; :bookmark:Mem :bookmark:TLB
@@ -79,6 +80,7 @@
 
 #### **Updated**
 
+- 2026-11-25&nbsp;&nbsp; [KernelFoundry](/0076_papers_KernelFoundry)&nbsp;&nbsp; :bookmark:papers :bookmark:KernelFoundry
 - 2026-10-16&nbsp;&nbsp; [Mem Bandwidth](/0075_Mem_Bandwidth)&nbsp;&nbsp; :bookmark:Mem :bookmark:Bandwidth
 - 2026-10-16&nbsp;&nbsp; [Mem Allocator](/0074_Mem_Allocator)&nbsp;&nbsp; :bookmark:Mem :bookmark:Allocator
 - 2026-10-16&nbsp;&nbsp; [Mem TLB](/0073_Mem_TLB)&nbsp;&nbsp; :bookmark:Mem :bookmark:TLB

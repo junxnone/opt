@@ -70,7 +70,9 @@
     - [Intel OneAPI oneDPL](/0043_LIB_OneAPI_oneDPL)
 - [Loop Optimization](/0049_Loop)
   - [循环合并](/0063_Loop_Fusion)
+- papers
+  - [KernelFoundry](/0076_papers_KernelFoundry)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1641441120</sub></kbd>
+<kbd><sub>@2356581125</sub></kbd>
